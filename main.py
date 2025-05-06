@@ -1,4 +1,7 @@
-import Entities
+from WareHouse import *
+from Employee import *
+from Item import *
+from Order import *
 
 
 def main():

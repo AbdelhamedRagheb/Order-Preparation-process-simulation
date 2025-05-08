@@ -9,7 +9,7 @@ class Employee:
     def getBusy(self) -> bool:
         return self.busy
 
-    def setBusy(self, busy: bool) -> None:
+    def setbusy(self, busy: bool) -> None:
         self.busy = busy
 
     def __str__(self) -> str:

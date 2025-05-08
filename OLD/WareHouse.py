@@ -1,5 +1,5 @@
 from Item import Item
-
+from Order import Order
 
 class Warehouse:
     def __init__(self, WareHouse_id, items: dict[Item, int]):
@@ -36,6 +36,16 @@ class Warehouse:
             if item.name == order_Item.name:
                 return item
         return None
+
+    def checkOrder(self, order:Order):
+        for item in order.items:
+            if self.isItemAvailable(item) is None:
+                return False
+        return True
+
+    def takeorder(self, order: Order) -> None:
+        for item in order.items:
+            self.takeItem(item, order.items[item])
 
     def printItems(self) -> None:
         print("Warehouse:", self.WareHouse_id)

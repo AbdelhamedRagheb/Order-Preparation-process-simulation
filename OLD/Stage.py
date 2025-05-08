@@ -10,7 +10,6 @@ class XStage:
         for i in range(number_of_employee):
             self.employees.append(Employee(i + 1))
         self.next_stage = next_stage
-        self.wait_queue = queue.Queue()
 
     def get_next_stage(self) -> str:
         return self.next_stage

@@ -6,8 +6,12 @@ class Order:
         self.totalPrice = 0
         self.order_id = order_id
         self.items = items
-        self.state = "Start"  # states = [start , process , waiting , done]
+        self.state = "Start"  # states = [start , process , waiting , done , not done]
         self.stage = None  # stage = [Collection -> cover -> delivered ]
+        self.totalTime = 0
+        self.waitingTime = 0
+        self.serviceTime = 0
+        self.arriveTime = 0
 
     def totalCost(self) -> int:
         self.totalPrice = 0
@@ -56,7 +60,7 @@ class Order:
         self.stage = stage
 
     def printOrder(self) -> None:
-        print(f"Order #{self.order_id}: {self.state} , Total Price: {self.totalCost()}$ , Stage: {self.stage}")
+        print(f"Order #{self.order_id}: {self.state} , Total Price: {self.totalCost()}$ , Stage: {self.stage},arriveTime: {self.arriveTime}, waitingTime: {self.waitingTime}, serviceTime: {self.serviceTime},Total Time: {self.totalTime}")
         for item in self.items:
             print(item, "Quantity:", self.items[item])
 

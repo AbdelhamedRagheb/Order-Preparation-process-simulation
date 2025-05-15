@@ -1,0 +1,550 @@
+customer_0 arrives at 3.56
+customer_0 starts at 3.56 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_0 starts ordering at 3.56
+customer_0 moves to chiefs at 6.33 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_0 is being served by chief at 6.33
+customer_0 moves to waiters at 7.64 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_0 is being served by waiter at 7.64
+customer_0 leaves system at 8.89
+customer_1 arrives at 14.99
+customer_1 starts at 14.99 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_1 starts ordering at 14.99
+customer_1 moves to chiefs at 15.06 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_1 is being served by chief at 15.06
+customer_1 moves to waiters at 24.09 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_1 is being served by waiter at 24.09
+customer_2 arrives at 30.23
+customer_2 starts at 30.23 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_2 starts ordering at 30.23
+customer_1 leaves system at 31.94
+customer_2 moves to chiefs at 32.61 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_2 is being served by chief at 32.61
+customer_2 moves to waiters at 34.00 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_2 is being served by waiter at 34.00
+customer_3 arrives at 36.42
+customer_3 starts at 36.42 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_3 starts ordering at 36.42
+customer_2 leaves system at 39.15
+customer_3 moves to chiefs at 40.10 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_3 is being served by chief at 40.10
+customer_3 moves to waiters at 43.17 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_3 is being served by waiter at 43.17
+customer_4 arrives at 45.63
+customer_4 starts at 45.63 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_4 starts ordering at 45.63
+customer_3 leaves system at 47.00
+customer_4 moves to chiefs at 48.50 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_4 is being served by chief at 48.50
+customer_5 arrives at 51.90
+customer_5 starts at 51.90 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_5 starts ordering at 51.90
+customer_6 arrives at 55.27
+customer_6 starts at 55.27 to order (Busy: 2/2, Idle: 0)
+Order takers queue: []
+customer_6 starts ordering at 55.27
+customer_4 moves to waiters at 55.41 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_4 is being served by waiter at 55.41
+customer_7 arrives at 59.69
+customer_7 starts at 59.69 to order (Busy: 2/2, Idle: 0)
+Order takers queue: [<Request() object at 0x17692885b50>]
+customer_6 moves to chiefs at 62.14 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_6 is being served by chief at 62.14
+customer_7 starts ordering at 62.14
+customer_5 moves to chiefs at 63.81 (Busy: 2/2, Idle: 0)
+Chiefs queue: []
+customer_5 is being served by chief at 63.81
+customer_7 moves to chiefs at 64.10 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x176928b2050>]
+customer_6 moves to waiters at 65.53 (Busy: 2/2, Idle: 0)
+Waiters queue: []
+customer_6 is being served by waiter at 65.53
+customer_7 is being served by chief at 65.53
+customer_8 arrives at 67.99
+customer_8 starts at 67.99 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_8 starts ordering at 67.99
+customer_4 leaves system at 68.91
+customer_9 arrives at 70.02
+customer_9 starts at 70.02 to order (Busy: 2/2, Idle: 0)
+Order takers queue: []
+customer_9 starts ordering at 70.02
+customer_10 arrives at 70.04
+customer_10 starts at 70.04 to order (Busy: 2/2, Idle: 0)
+Order takers queue: [<Request() object at 0x17692885ed0>]
+customer_6 leaves system at 70.99
+customer_8 moves to chiefs at 71.11 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x17692886250>]
+customer_10 starts ordering at 71.11
+customer_10 moves to chiefs at 71.11 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x17692886250>, <Request() object at 0x176928b2950>]
+customer_7 moves to waiters at 71.83 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_7 is being served by waiter at 71.83
+customer_8 is being served by chief at 71.83
+customer_7 leaves system at 72.08
+customer_9 moves to chiefs at 74.97 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x176928b2950>, <Request() object at 0x17692885c50>]
+customer_5 moves to waiters at 75.69 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_5 is being served by waiter at 75.69
+customer_10 is being served by chief at 75.69
+customer_5 leaves system at 75.74
+customer_11 arrives at 76.14
+customer_11 starts at 76.14 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_11 starts ordering at 76.14
+customer_12 arrives at 78.36
+customer_12 starts at 78.36 to order (Busy: 2/2, Idle: 0)
+Order takers queue: []
+customer_12 starts ordering at 78.36
+customer_10 moves to waiters at 80.93 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_10 is being served by waiter at 80.93
+customer_9 is being served by chief at 80.93
+customer_12 moves to chiefs at 81.59 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x176928b26d0>]
+customer_11 moves to chiefs at 81.62 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x176928b26d0>, <Request() object at 0x176928b1050>]
+customer_13 arrives at 84.76
+customer_13 starts at 84.76 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_13 starts ordering at 84.76
+customer_13 moves to chiefs at 85.00 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x176928b26d0>, <Request() object at 0x176928b1050>, <Request() object at 0x176928b2450>]
+customer_8 moves to waiters at 85.71 (Busy: 2/2, Idle: 0)
+Waiters queue: []
+customer_8 is being served by waiter at 85.71
+customer_12 is being served by chief at 85.71
+customer_14 arrives at 85.81
+customer_14 starts at 85.81 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_14 starts ordering at 85.81
+customer_15 arrives at 86.23
+customer_15 starts at 86.23 to order (Busy: 2/2, Idle: 0)
+Order takers queue: []
+customer_15 starts ordering at 86.23
+customer_10 leaves system at 87.37
+customer_9 moves to waiters at 88.98 (Busy: 2/2, Idle: 0)
+Waiters queue: []
+customer_9 is being served by waiter at 88.98
+customer_11 is being served by chief at 88.98
+customer_15 moves to chiefs at 90.49 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x176928b2450>, <Request() object at 0x176928b3650>]
+customer_12 moves to waiters at 92.54 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x176928b2950>]
+customer_13 is being served by chief at 92.54
+customer_8 leaves system at 93.50
+customer_12 is being served by waiter at 93.50
+customer_9 leaves system at 94.25
+customer_11 moves to waiters at 98.40 (Busy: 2/2, Idle: 0)
+Waiters queue: []
+customer_11 is being served by waiter at 98.40
+customer_15 is being served by chief at 98.40
+customer_14 moves to chiefs at 99.02 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x176928862d0>]
+customer_13 moves to waiters at 100.38 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x17692885ed0>]
+customer_14 is being served by chief at 100.38
+customer_15 moves to waiters at 100.48 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x17692885ed0>, <Request() object at 0x17692885c50>]
+customer_16 arrives at 103.23
+customer_16 starts at 103.23 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_16 starts ordering at 103.23
+customer_16 moves to chiefs at 106.30 (Busy: 2/2, Idle: 0)
+Chiefs queue: []
+customer_16 is being served by chief at 106.30
+customer_14 moves to waiters at 106.63 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x17692885ed0>, <Request() object at 0x17692885c50>, <Request() object at 0x176928b3450>]
+customer_12 leaves system at 106.70
+customer_13 is being served by waiter at 106.70
+customer_11 leaves system at 106.79
+customer_15 is being served by waiter at 106.79
+customer_15 leaves system at 108.08
+customer_14 is being served by waiter at 108.08
+customer_17 arrives at 108.25
+customer_17 starts at 108.25 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_17 starts ordering at 108.25
+customer_13 leaves system at 109.92
+customer_14 leaves system at 111.22
+customer_16 moves to waiters at 112.83 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_16 is being served by waiter at 112.83
+customer_16 leaves system at 113.76
+customer_17 moves to chiefs at 117.94 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_17 is being served by chief at 117.94
+customer_18 arrives at 121.17
+customer_18 starts at 121.17 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_18 starts ordering at 121.17
+customer_17 moves to waiters at 122.18 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_17 is being served by waiter at 122.18
+customer_18 moves to chiefs at 123.82 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_18 is being served by chief at 123.82
+customer_17 leaves system at 125.20
+customer_18 moves to waiters at 127.23 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_18 is being served by waiter at 127.23
+customer_18 leaves system at 127.85
+customer_19 arrives at 137.79
+customer_19 starts at 137.79 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_19 starts ordering at 137.79
+customer_20 arrives at 140.42
+customer_20 starts at 140.42 to order (Busy: 2/2, Idle: 0)
+Order takers queue: []
+customer_20 starts ordering at 140.42
+customer_20 moves to chiefs at 141.29 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_20 is being served by chief at 141.29
+customer_21 arrives at 143.06
+customer_21 starts at 143.06 to order (Busy: 2/2, Idle: 0)
+Order takers queue: []
+customer_21 starts ordering at 143.06
+customer_20 moves to waiters at 143.43 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_20 is being served by waiter at 143.43
+customer_21 moves to chiefs at 143.87 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_21 is being served by chief at 143.87
+customer_21 moves to waiters at 145.27 (Busy: 2/2, Idle: 0)
+Waiters queue: []
+customer_21 is being served by waiter at 145.27
+customer_19 moves to chiefs at 146.28 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_19 is being served by chief at 146.28
+customer_22 arrives at 147.30
+customer_22 starts at 147.30 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_22 starts ordering at 147.30
+customer_22 moves to chiefs at 150.41 (Busy: 2/2, Idle: 0)
+Chiefs queue: []
+customer_22 is being served by chief at 150.41
+customer_22 moves to waiters at 150.55 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x176928b25d0>]
+customer_20 leaves system at 151.87
+customer_22 is being served by waiter at 151.87
+customer_19 moves to waiters at 152.29 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x176928862d0>]
+customer_22 leaves system at 152.72
+customer_19 is being served by waiter at 152.72
+customer_23 arrives at 154.54
+customer_23 starts at 154.54 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_23 starts ordering at 154.54
+customer_23 moves to chiefs at 154.69 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_23 is being served by chief at 154.69
+customer_19 leaves system at 154.74
+customer_24 arrives at 158.90
+customer_24 starts at 158.90 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_24 starts ordering at 158.90
+customer_23 moves to waiters at 158.98 (Busy: 2/2, Idle: 0)
+Waiters queue: []
+customer_23 is being served by waiter at 158.98
+customer_24 moves to chiefs at 159.98 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_24 is being served by chief at 159.98
+customer_21 leaves system at 160.60
+customer_23 leaves system at 162.34
+customer_24 moves to waiters at 165.09 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_24 is being served by waiter at 165.09
+customer_25 arrives at 168.55
+customer_25 starts at 168.55 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_25 starts ordering at 168.55
+customer_26 arrives at 168.74
+customer_26 starts at 168.74 to order (Busy: 2/2, Idle: 0)
+Order takers queue: []
+customer_26 starts ordering at 168.74
+customer_24 leaves system at 169.09
+customer_27 arrives at 169.19
+customer_27 starts at 169.19 to order (Busy: 2/2, Idle: 0)
+Order takers queue: [<Request() object at 0x17690018350>]
+customer_26 moves to chiefs at 175.62 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_26 is being served by chief at 175.62
+customer_27 starts ordering at 175.62
+customer_25 moves to chiefs at 176.65 (Busy: 2/2, Idle: 0)
+Chiefs queue: []
+customer_25 is being served by chief at 176.65
+customer_28 arrives at 178.31
+customer_28 starts at 178.31 to order (Busy: 2/2, Idle: 0)
+Order takers queue: []
+customer_28 starts ordering at 178.31
+customer_27 moves to chiefs at 178.68 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x176928b27d0>]
+customer_26 moves to waiters at 178.81 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_26 is being served by waiter at 178.81
+customer_27 is being served by chief at 178.81
+customer_28 moves to chiefs at 178.87 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x176928b3450>]
+customer_29 arrives at 179.32
+customer_29 starts at 179.32 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_29 starts ordering at 179.32
+customer_29 moves to chiefs at 179.39 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x176928b3450>, <Request() object at 0x176928b3bd0>]
+customer_30 arrives at 179.45
+customer_30 starts at 179.45 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_30 starts ordering at 179.45
+customer_25 moves to waiters at 179.61 (Busy: 2/2, Idle: 0)
+Waiters queue: []
+customer_25 is being served by waiter at 179.61
+customer_28 is being served by chief at 179.61
+customer_25 leaves system at 180.46
+customer_27 moves to waiters at 180.92 (Busy: 2/2, Idle: 0)
+Waiters queue: []
+customer_27 is being served by waiter at 180.92
+customer_29 is being served by chief at 180.92
+customer_30 moves to chiefs at 181.17 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x1769001a350>]
+customer_29 moves to waiters at 181.71 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x176928b0cd0>]
+customer_30 is being served by chief at 181.71
+customer_27 leaves system at 182.19
+customer_29 is being served by waiter at 182.19
+customer_28 moves to waiters at 182.63 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x17692886150>]
+customer_30 moves to waiters at 182.65 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x17692886150>, <Request() object at 0x17690019f50>]
+customer_26 leaves system at 183.11
+customer_28 is being served by waiter at 183.11
+customer_28 leaves system at 185.31
+customer_30 is being served by waiter at 185.31
+customer_31 arrives at 185.51
+customer_31 starts at 185.51 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_31 starts ordering at 185.51
+customer_30 leaves system at 186.14
+customer_29 leaves system at 186.26
+customer_31 moves to chiefs at 194.55 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_31 is being served by chief at 194.55
+customer_32 arrives at 197.57
+customer_32 starts at 197.57 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_32 starts ordering at 197.57
+customer_31 moves to waiters at 197.58 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_31 is being served by waiter at 197.58
+customer_31 leaves system at 197.62
+customer_33 arrives at 202.36
+customer_33 starts at 202.36 to order (Busy: 2/2, Idle: 0)
+Order takers queue: []
+customer_33 starts ordering at 202.36
+customer_34 arrives at 203.58
+customer_34 starts at 203.58 to order (Busy: 2/2, Idle: 0)
+Order takers queue: [<Request() object at 0x176928855d0>]
+customer_32 moves to chiefs at 204.13 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_32 is being served by chief at 204.13
+customer_34 starts ordering at 204.13
+customer_32 moves to waiters at 204.39 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_32 is being served by waiter at 204.39
+customer_32 leaves system at 207.23
+customer_34 moves to chiefs at 207.39 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_34 is being served by chief at 207.39
+customer_33 moves to chiefs at 207.53 (Busy: 2/2, Idle: 0)
+Chiefs queue: []
+customer_33 is being served by chief at 207.53
+customer_33 moves to waiters at 209.15 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_33 is being served by waiter at 209.15
+customer_34 moves to waiters at 210.79 (Busy: 2/2, Idle: 0)
+Waiters queue: []
+customer_34 is being served by waiter at 210.79
+customer_34 leaves system at 210.91
+customer_33 leaves system at 212.02
+customer_35 arrives at 218.56
+customer_35 starts at 218.56 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_35 starts ordering at 218.56
+customer_36 arrives at 221.20
+customer_36 starts at 221.20 to order (Busy: 2/2, Idle: 0)
+Order takers queue: []
+customer_36 starts ordering at 221.20
+customer_36 moves to chiefs at 225.09 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_36 is being served by chief at 225.09
+customer_35 moves to chiefs at 229.98 (Busy: 2/2, Idle: 0)
+Chiefs queue: []
+customer_35 is being served by chief at 229.98
+customer_36 moves to waiters at 231.72 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_36 is being served by waiter at 231.72
+customer_35 moves to waiters at 232.03 (Busy: 2/2, Idle: 0)
+Waiters queue: []
+customer_35 is being served by waiter at 232.03
+customer_37 arrives at 233.86
+customer_37 starts at 233.86 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_37 starts ordering at 233.86
+customer_35 leaves system at 234.13
+customer_38 arrives at 235.82
+customer_38 starts at 235.82 to order (Busy: 2/2, Idle: 0)
+Order takers queue: []
+customer_38 starts ordering at 235.82
+customer_39 arrives at 236.26
+customer_39 starts at 236.26 to order (Busy: 2/2, Idle: 0)
+Order takers queue: [<Request() object at 0x176928862d0>]
+customer_40 arrives at 238.07
+customer_40 starts at 238.07 to order (Busy: 2/2, Idle: 0)
+Order takers queue: [<Request() object at 0x176928862d0>, <Request() object at 0x176928b2350>]
+customer_41 arrives at 238.78
+customer_41 starts at 238.78 to order (Busy: 2/2, Idle: 0)
+Order takers queue: [<Request() object at 0x176928862d0>, <Request() object at 0x176928b2350>, <Request() object at 0x176928b16d0>]
+customer_42 arrives at 243.15
+customer_42 starts at 243.15 to order (Busy: 2/2, Idle: 0)
+Order takers queue: [<Request() object at 0x176928862d0>, <Request() object at 0x176928b2350>, <Request() object at 0x176928b16d0>, <Request() object at 0x176928b2050>]
+customer_38 moves to chiefs at 248.29 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_38 is being served by chief at 248.29
+customer_39 starts ordering at 248.29
+customer_37 moves to chiefs at 249.10 (Busy: 2/2, Idle: 0)
+Chiefs queue: []
+customer_37 is being served by chief at 249.10
+customer_40 starts ordering at 249.10
+customer_43 arrives at 252.92
+customer_43 starts at 252.92 to order (Busy: 2/2, Idle: 0)
+Order takers queue: [<Request() object at 0x176928b16d0>, <Request() object at 0x176928b2050>, <Request() object at 0x176928b2450>]
+customer_40 moves to chiefs at 254.76 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x176928b28d0>]
+customer_41 starts ordering at 254.76
+customer_36 leaves system at 255.61
+customer_38 moves to waiters at 255.74 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_38 is being served by waiter at 255.74
+customer_40 is being served by chief at 255.74
+customer_38 leaves system at 256.35
+customer_44 arrives at 256.46
+customer_44 starts at 256.46 to order (Busy: 2/2, Idle: 0)
+Order takers queue: [<Request() object at 0x176928b2050>, <Request() object at 0x176928b2450>, <Request() object at 0x17692886150>]
+customer_39 moves to chiefs at 256.70 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x17692885ed0>]
+customer_42 starts ordering at 256.70
+customer_37 moves to waiters at 257.06 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_37 is being served by waiter at 257.06
+customer_39 is being served by chief at 257.06
+customer_40 moves to waiters at 257.56 (Busy: 2/2, Idle: 0)
+Waiters queue: []
+customer_40 is being served by waiter at 257.56
+customer_45 arrives at 258.53
+customer_45 starts at 258.53 to order (Busy: 2/2, Idle: 0)
+Order takers queue: [<Request() object at 0x176928b2450>, <Request() object at 0x17692886150>, <Request() object at 0x176928b25d0>]
+customer_39 moves to waiters at 259.15 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x176928b3650>]
+customer_46 arrives at 259.92
+customer_46 starts at 259.92 to order (Busy: 2/2, Idle: 0)
+Order takers queue: [<Request() object at 0x176928b2450>, <Request() object at 0x17692886150>, <Request() object at 0x176928b25d0>, <Request() object at 0x176928b23d0>]
+customer_41 moves to chiefs at 264.45 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_41 is being served by chief at 264.45
+customer_43 starts ordering at 264.45
+customer_37 leaves system at 264.67
+customer_39 is being served by waiter at 264.67
+customer_41 moves to waiters at 265.42 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x17692885c50>]
+customer_39 leaves system at 270.23
+customer_41 is being served by waiter at 270.23
+customer_42 moves to chiefs at 271.51 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_42 is being served by chief at 271.51
+customer_44 starts ordering at 271.51
+customer_42 moves to waiters at 272.33 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x17692885ed0>]
+customer_40 leaves system at 273.94
+customer_42 is being served by waiter at 273.94
+customer_44 moves to chiefs at 274.81 (Busy: 1/2, Idle: 1)
+Chiefs queue: []
+customer_44 is being served by chief at 274.81
+customer_45 starts ordering at 274.81
+customer_45 moves to chiefs at 275.62 (Busy: 2/2, Idle: 0)
+Chiefs queue: []
+customer_45 is being served by chief at 275.62
+customer_46 starts ordering at 275.62
+customer_43 moves to chiefs at 276.52 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x176928862d0>]
+customer_41 leaves system at 278.25
+customer_42 leaves system at 278.54
+customer_44 moves to waiters at 281.93 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_44 is being served by waiter at 281.93
+customer_43 is being served by chief at 281.93
+customer_44 leaves system at 282.79
+customer_46 moves to chiefs at 284.68 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x17690019f50>]
+customer_43 moves to waiters at 285.35 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_43 is being served by waiter at 285.35
+customer_46 is being served by chief at 285.35
+customer_47 arrives at 286.74
+customer_47 starts at 286.74 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_47 starts ordering at 286.74
+customer_43 leaves system at 290.39
+customer_48 arrives at 290.63
+customer_48 starts at 290.63 to order (Busy: 2/2, Idle: 0)
+Order takers queue: []
+customer_48 starts ordering at 290.63
+customer_48 moves to chiefs at 293.21 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x17692886250>]
+customer_47 moves to chiefs at 294.07 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x17692886250>, <Request() object at 0x17692885c50>]
+customer_49 arrives at 295.25
+customer_49 starts at 295.25 to order (Busy: 1/2, Idle: 1)
+Order takers queue: []
+customer_49 starts ordering at 295.25
+customer_49 moves to chiefs at 299.39 (Busy: 2/2, Idle: 0)
+Chiefs queue: [<Request() object at 0x17692886250>, <Request() object at 0x17692885c50>, <Request() object at 0x176928b2450>]
+customer_45 moves to waiters at 300.19 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_45 is being served by waiter at 300.19
+customer_48 is being served by chief at 300.19
+customer_46 moves to waiters at 301.30 (Busy: 2/2, Idle: 0)
+Waiters queue: []
+customer_46 is being served by waiter at 301.30
+customer_47 is being served by chief at 301.30
+customer_48 moves to waiters at 304.48 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x176928b3bd0>]
+customer_49 is being served by chief at 304.48
+customer_46 leaves system at 309.93
+customer_48 is being served by waiter at 309.93
+customer_49 moves to waiters at 312.49 (Busy: 2/2, Idle: 0)
+Waiters queue: [<Request() object at 0x17690019f50>]
+customer_45 leaves system at 312.57
+customer_49 is being served by waiter at 312.57
+customer_49 leaves system at 314.59
+customer_48 leaves system at 316.92
+customer_47 moves to waiters at 318.08 (Busy: 1/2, Idle: 1)
+Waiters queue: []
+customer_47 is being served by waiter at 318.08
+customer_47 leaves system at 320.95

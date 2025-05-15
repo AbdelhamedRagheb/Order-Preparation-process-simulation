@@ -1,0 +1,1152 @@
+Time 1.781371014307793: Customer 0 arrives and joins Server 0's queue
+Time 1.781371014307793: Customer 0 arrives and joins Server 1's queue
+Time 1.781371014307793: Customer 0 arrives and joins Server 2's queue
+Time 7.4966432216853605: Customer 1 arrives and joins Server 0's queue
+Time 7.4966432216853605: Customer 1 arrives and joins Server 1's queue
+Time 7.4966432216853605: Customer 1 arrives and joins Server 2's queue
+Time 15.112851994531468: Customer 2 arrives and joins Server 0's queue
+Time 15.112851994531468: Customer 2 arrives but all servers' queue is full! Customer is lost.
+Time 15.112851994531468: Customer 2 arrives and joins Server 2's queue
+Time 18.21079641288407: Customer 3 arrives and joins Server 0's queue
+Time 18.21079641288407: Customer 3 arrives and joins Server 1's queue
+Time 18.21079641288407: Customer 3 arrives and joins Server 2's queue
+Time 21.302111239442265: Customer 4 arrives but all servers' queue is full! Customer is lost.
+Time 21.302111239442265: Customer 4 arrives but all servers' queue is full! Customer is lost.
+Time 21.302111239442265: Customer 4 arrives and joins Server 2's queue
+Time 23.600105762536348: Customer 5 arrives but all servers' queue is full! Customer is lost.
+Time 23.600105762536348: Customer 5 arrives and joins Server 1's queue
+Time 23.600105762536348: Customer 5 arrives but all servers' queue is full! Customer is lost.
+Time 25.31909387292894: Customer 6 arrives but all servers' queue is full! Customer is lost.
+Time 25.31909387292894: Customer 6 arrives but all servers' queue is full! Customer is lost.
+Time 25.31909387292894: Customer 6 arrives but all servers' queue is full! Customer is lost.
+Time 27.006111461596987: Customer 7 arrives and joins Server 0's queue
+Time 27.006111461596987: Customer 7 arrives but all servers' queue is full! Customer is lost.
+Time 27.006111461596987: Customer 7 arrives and joins Server 2's queue
+Time 34.15206487012531: Customer 8 arrives and joins Server 0's queue
+Time 34.15206487012531: Customer 8 arrives and joins Server 1's queue
+Time 34.15206487012531: Customer 8 arrives and joins Server 2's queue
+Time 42.254274480471395: Customer 9 arrives and joins Server 0's queue
+Time 42.254274480471395: Customer 9 arrives and joins Server 1's queue
+Time 42.254274480471395: Customer 9 arrives and joins Server 2's queue
+Time 48.19587622683197: Customer 10 arrives and joins Server 0's queue
+Time 48.19587622683197: Customer 10 arrives but all servers' queue is full! Customer is lost.
+Time 48.19587622683197: Customer 10 arrives and joins Server 2's queue
+Time 50.06726425981809: Customer 11 arrives and joins Server 0's queue
+Time 50.06726425981809: Customer 11 arrives and joins Server 1's queue
+Time 50.06726425981809: Customer 11 arrives but all servers' queue is full! Customer is lost.
+Time 53.11793272206758: Customer 12 arrives and joins Server 0's queue
+Time 53.11793272206758: Customer 12 arrives and joins Server 1's queue
+Time 53.11793272206758: Customer 12 arrives and joins Server 2's queue
+Time 60.05549431711384: Customer 13 arrives and joins Server 0's queue
+Time 60.05549431711384: Customer 13 arrives and joins Server 1's queue
+Time 60.05549431711384: Customer 13 arrives and joins Server 2's queue
+Time 63.34325639611536: Customer 14 arrives but all servers' queue is full! Customer is lost.
+Time 63.34325639611536: Customer 14 arrives but all servers' queue is full! Customer is lost.
+Time 63.34325639611536: Customer 14 arrives but all servers' queue is full! Customer is lost.
+Time 67.36758278514398: Customer 15 arrives and joins Server 0's queue
+Time 67.36758278514398: Customer 15 arrives and joins Server 1's queue
+Time 67.36758278514398: Customer 15 arrives and joins Server 2's queue
+Time 67.89442335310844: Customer 16 arrives and joins Server 0's queue
+Time 67.89442335310844: Customer 16 arrives but all servers' queue is full! Customer is lost.
+Time 67.89442335310844: Customer 16 arrives but all servers' queue is full! Customer is lost.
+Time 68.10402172438027: Customer 17 arrives but all servers' queue is full! Customer is lost.
+Time 68.10402172438027: Customer 17 arrives but all servers' queue is full! Customer is lost.
+Time 68.10402172438027: Customer 17 arrives but all servers' queue is full! Customer is lost.
+Time 76.6040679749134: Customer 18 arrives but all servers' queue is full! Customer is lost.
+Time 76.6040679749134: Customer 18 arrives but all servers' queue is full! Customer is lost.
+Time 76.6040679749134: Customer 18 arrives and joins Server 2's queue
+Time 79.15923098721541: Customer 19 arrives but all servers' queue is full! Customer is lost.
+Time 79.15923098721541: Customer 19 arrives and joins Server 1's queue
+Time 79.15923098721541: Customer 19 arrives but all servers' queue is full! Customer is lost.
+Time 83.87106058904234: Customer 20 arrives and joins Server 0's queue
+Time 83.87106058904234: Customer 20 arrives but all servers' queue is full! Customer is lost.
+Time 83.87106058904234: Customer 20 arrives and joins Server 2's queue
+Time 91.78899505124775: Customer 21 arrives but all servers' queue is full! Customer is lost.
+Time 91.78899505124775: Customer 21 arrives and joins Server 1's queue
+Time 91.78899505124775: Customer 21 arrives and joins Server 2's queue
+Time 94.91519008106492: Customer 22 arrives and joins Server 0's queue
+Time 94.91519008106492: Customer 22 arrives but all servers' queue is full! Customer is lost.
+Time 94.91519008106492: Customer 22 arrives and joins Server 2's queue
+Time 98.17808604119297: Customer 23 arrives and joins Server 0's queue
+Time 98.17808604119297: Customer 23 arrives and joins Server 1's queue
+Time 98.17808604119297: Customer 23 arrives and joins Server 2's queue
+Time 100.05945826408522: Customer 24 arrives but all servers' queue is full! Customer is lost.
+Time 100.05945826408522: Customer 24 arrives but all servers' queue is full! Customer is lost.
+Time 100.05945826408522: Customer 24 arrives and joins Server 2's queue
+Time 102.17847266951064: Customer 25 arrives but all servers' queue is full! Customer is lost.
+Time 102.17847266951064: Customer 25 arrives but all servers' queue is full! Customer is lost.
+Time 102.17847266951064: Customer 25 arrives but all servers' queue is full! Customer is lost.
+Time 103.7660809054705: Customer 26 arrives but all servers' queue is full! Customer is lost.
+Time 103.7660809054705: Customer 26 arrives but all servers' queue is full! Customer is lost.
+Time 103.7660809054705: Customer 26 arrives but all servers' queue is full! Customer is lost.
+Time 105.57722927847306: Customer 27 arrives but all servers' queue is full! Customer is lost.
+Time 105.57722927847306: Customer 27 arrives but all servers' queue is full! Customer is lost.
+Time 105.57722927847306: Customer 27 arrives but all servers' queue is full! Customer is lost.
+Time 107.28369654014188: Customer 28 arrives but all servers' queue is full! Customer is lost.
+Time 107.28369654014188: Customer 28 arrives but all servers' queue is full! Customer is lost.
+Time 107.28369654014188: Customer 28 arrives but all servers' queue is full! Customer is lost.
+Time 107.65181677284612: Customer 29 arrives but all servers' queue is full! Customer is lost.
+Time 107.65181677284612: Customer 29 arrives but all servers' queue is full! Customer is lost.
+Time 107.65181677284612: Customer 29 arrives but all servers' queue is full! Customer is lost.
+Time 108.96521964772685: Customer 30 arrives and joins Server 0's queue
+Time 108.96521964772685: Customer 30 arrives but all servers' queue is full! Customer is lost.
+Time 108.96521964772685: Customer 30 arrives but all servers' queue is full! Customer is lost.
+Time 114.05928337798872: Customer 31 arrives and joins Server 0's queue
+Time 114.05928337798872: Customer 31 arrives and joins Server 1's queue
+Time 114.05928337798872: Customer 31 arrives and joins Server 2's queue
+Time 114.58361949562256: Customer 32 arrives but all servers' queue is full! Customer is lost.
+Time 114.58361949562256: Customer 32 arrives but all servers' queue is full! Customer is lost.
+Time 114.58361949562256: Customer 32 arrives but all servers' queue is full! Customer is lost.
+Time 119.64916196452525: Customer 33 arrives and joins Server 0's queue
+Time 119.64916196452525: Customer 33 arrives and joins Server 1's queue
+Time 119.64916196452525: Customer 33 arrives and joins Server 2's queue
+Time 120.34984426281893: Customer 34 arrives but all servers' queue is full! Customer is lost.
+Time 120.34984426281893: Customer 34 arrives but all servers' queue is full! Customer is lost.
+Time 120.34984426281893: Customer 34 arrives but all servers' queue is full! Customer is lost.
+Time 122.21748565625961: Customer 35 arrives but all servers' queue is full! Customer is lost.
+Time 122.21748565625961: Customer 35 arrives but all servers' queue is full! Customer is lost.
+Time 122.21748565625961: Customer 35 arrives but all servers' queue is full! Customer is lost.
+Time 122.28276026554038: Customer 36 arrives but all servers' queue is full! Customer is lost.
+Time 122.28276026554038: Customer 36 arrives but all servers' queue is full! Customer is lost.
+Time 122.28276026554038: Customer 36 arrives but all servers' queue is full! Customer is lost.
+Time 122.79335535966878: Customer 37 arrives but all servers' queue is full! Customer is lost.
+Time 122.79335535966878: Customer 37 arrives but all servers' queue is full! Customer is lost.
+Time 122.79335535966878: Customer 37 arrives but all servers' queue is full! Customer is lost.
+Time 124.00610762518964: Customer 38 arrives but all servers' queue is full! Customer is lost.
+Time 124.00610762518964: Customer 38 arrives but all servers' queue is full! Customer is lost.
+Time 124.00610762518964: Customer 38 arrives but all servers' queue is full! Customer is lost.
+Time 126.18497603007722: Customer 39 arrives but all servers' queue is full! Customer is lost.
+Time 126.18497603007722: Customer 39 arrives but all servers' queue is full! Customer is lost.
+Time 126.18497603007722: Customer 39 arrives and joins Server 2's queue
+Time 126.27358680449801: Customer 40 arrives but all servers' queue is full! Customer is lost.
+Time 126.27358680449801: Customer 40 arrives but all servers' queue is full! Customer is lost.
+Time 126.27358680449801: Customer 40 arrives but all servers' queue is full! Customer is lost.
+Time 131.09840739654032: Customer 41 arrives but all servers' queue is full! Customer is lost.
+Time 131.09840739654032: Customer 41 arrives and joins Server 1's queue
+Time 131.09840739654032: Customer 41 arrives and joins Server 2's queue
+Time 131.74593475700513: Customer 42 arrives but all servers' queue is full! Customer is lost.
+Time 131.74593475700513: Customer 42 arrives but all servers' queue is full! Customer is lost.
+Time 131.74593475700513: Customer 42 arrives but all servers' queue is full! Customer is lost.
+Time 134.14583876489053: Customer 43 arrives but all servers' queue is full! Customer is lost.
+Time 134.14583876489053: Customer 43 arrives but all servers' queue is full! Customer is lost.
+Time 134.14583876489053: Customer 43 arrives but all servers' queue is full! Customer is lost.
+Time 134.24322168321007: Customer 44 arrives but all servers' queue is full! Customer is lost.
+Time 134.24322168321007: Customer 44 arrives but all servers' queue is full! Customer is lost.
+Time 134.24322168321007: Customer 44 arrives but all servers' queue is full! Customer is lost.
+Time 139.10706767479124: Customer 45 arrives and joins Server 0's queue
+Time 139.10706767479124: Customer 45 arrives and joins Server 1's queue
+Time 139.10706767479124: Customer 45 arrives and joins Server 2's queue
+Time 139.3313579339196: Customer 46 arrives but all servers' queue is full! Customer is lost.
+Time 139.3313579339196: Customer 46 arrives but all servers' queue is full! Customer is lost.
+Time 139.3313579339196: Customer 46 arrives but all servers' queue is full! Customer is lost.
+Time 141.17012500356947: Customer 47 arrives but all servers' queue is full! Customer is lost.
+Time 141.17012500356947: Customer 47 arrives but all servers' queue is full! Customer is lost.
+Time 141.17012500356947: Customer 47 arrives but all servers' queue is full! Customer is lost.
+Time 142.6493999630233: Customer 48 arrives but all servers' queue is full! Customer is lost.
+Time 142.6493999630233: Customer 48 arrives but all servers' queue is full! Customer is lost.
+Time 142.6493999630233: Customer 48 arrives and joins Server 2's queue
+Time 143.15343761756577: Customer 49 arrives but all servers' queue is full! Customer is lost.
+Time 143.15343761756577: Customer 49 arrives but all servers' queue is full! Customer is lost.
+Time 143.15343761756577: Customer 49 arrives and joins Server 2's queue
+Time 145.7354126811853: Customer 50 arrives but all servers' queue is full! Customer is lost.
+Time 145.7354126811853: Customer 50 arrives but all servers' queue is full! Customer is lost.
+Time 145.7354126811853: Customer 50 arrives and joins Server 2's queue
+Time 145.7992532149025: Customer 51 arrives but all servers' queue is full! Customer is lost.
+Time 145.7992532149025: Customer 51 arrives but all servers' queue is full! Customer is lost.
+Time 145.7992532149025: Customer 51 arrives and joins Server 2's queue
+Time 148.83047181807495: Customer 52 arrives and joins Server 0's queue
+Time 148.83047181807495: Customer 52 arrives but all servers' queue is full! Customer is lost.
+Time 148.83047181807495: Customer 52 arrives and joins Server 2's queue
+Time 149.33761189086997: Customer 53 arrives but all servers' queue is full! Customer is lost.
+Time 149.33761189086997: Customer 53 arrives but all servers' queue is full! Customer is lost.
+Time 149.33761189086997: Customer 53 arrives but all servers' queue is full! Customer is lost.
+Time 149.73591692327048: Customer 54 arrives but all servers' queue is full! Customer is lost.
+Time 149.73591692327048: Customer 54 arrives but all servers' queue is full! Customer is lost.
+Time 149.73591692327048: Customer 54 arrives but all servers' queue is full! Customer is lost.
+Time 150.205825235996: Customer 55 arrives but all servers' queue is full! Customer is lost.
+Time 150.205825235996: Customer 55 arrives and joins Server 1's queue
+Time 150.205825235996: Customer 55 arrives and joins Server 2's queue
+Time 152.64680002395795: Customer 56 arrives and joins Server 0's queue
+Time 152.64680002395795: Customer 56 arrives but all servers' queue is full! Customer is lost.
+Time 152.64680002395795: Customer 56 arrives and joins Server 2's queue
+Time 158.6787668120292: Customer 57 arrives but all servers' queue is full! Customer is lost.
+Time 158.6787668120292: Customer 57 arrives and joins Server 1's queue
+Time 158.6787668120292: Customer 57 arrives and joins Server 2's queue
+Time 161.0732428619677: Customer 58 arrives but all servers' queue is full! Customer is lost.
+Time 161.0732428619677: Customer 58 arrives but all servers' queue is full! Customer is lost.
+Time 161.0732428619677: Customer 58 arrives and joins Server 2's queue
+Time 161.6809513342727: Customer 59 arrives but all servers' queue is full! Customer is lost.
+Time 161.6809513342727: Customer 59 arrives but all servers' queue is full! Customer is lost.
+Time 161.6809513342727: Customer 59 arrives but all servers' queue is full! Customer is lost.
+Time 169.1704331519331: Customer 60 arrives and joins Server 0's queue
+Time 169.1704331519331: Customer 60 arrives and joins Server 1's queue
+Time 169.1704331519331: Customer 60 arrives and joins Server 2's queue
+Time 169.29734691928368: Customer 61 arrives but all servers' queue is full! Customer is lost.
+Time 169.29734691928368: Customer 61 arrives but all servers' queue is full! Customer is lost.
+Time 169.29734691928368: Customer 61 arrives but all servers' queue is full! Customer is lost.
+Time 170.11016655293662: Customer 62 arrives but all servers' queue is full! Customer is lost.
+Time 170.11016655293662: Customer 62 arrives but all servers' queue is full! Customer is lost.
+Time 170.11016655293662: Customer 62 arrives but all servers' queue is full! Customer is lost.
+Time 171.83083036266814: Customer 63 arrives but all servers' queue is full! Customer is lost.
+Time 171.83083036266814: Customer 63 arrives but all servers' queue is full! Customer is lost.
+Time 171.83083036266814: Customer 63 arrives and joins Server 2's queue
+Time 171.90029183572415: Customer 64 arrives but all servers' queue is full! Customer is lost.
+Time 171.90029183572415: Customer 64 arrives but all servers' queue is full! Customer is lost.
+Time 171.90029183572415: Customer 64 arrives but all servers' queue is full! Customer is lost.
+Time 178.75113075160374: Customer 65 arrives and joins Server 0's queue
+Time 178.75113075160374: Customer 65 arrives and joins Server 1's queue
+Time 178.75113075160374: Customer 65 arrives and joins Server 2's queue
+Time 185.07785401296144: Customer 66 arrives and joins Server 0's queue
+Time 185.07785401296144: Customer 66 arrives but all servers' queue is full! Customer is lost.
+Time 185.07785401296144: Customer 66 arrives and joins Server 2's queue
+Time 199.40948103660213: Customer 67 arrives and joins Server 0's queue
+Time 199.40948103660213: Customer 67 arrives and joins Server 1's queue
+Time 199.40948103660213: Customer 67 arrives and joins Server 2's queue
+Time 208.55328987839027: Customer 68 arrives and joins Server 0's queue
+Time 208.55328987839027: Customer 68 arrives but all servers' queue is full! Customer is lost.
+Time 208.55328987839027: Customer 68 arrives and joins Server 2's queue
+Time 208.91133355696317: Customer 69 arrives but all servers' queue is full! Customer is lost.
+Time 208.91133355696317: Customer 69 arrives but all servers' queue is full! Customer is lost.
+Time 208.91133355696317: Customer 69 arrives but all servers' queue is full! Customer is lost.
+Time 212.6321357666807: Customer 70 arrives and joins Server 0's queue
+Time 212.6321357666807: Customer 70 arrives but all servers' queue is full! Customer is lost.
+Time 212.6321357666807: Customer 70 arrives but all servers' queue is full! Customer is lost.
+Time 217.67609289883598: Customer 71 arrives but all servers' queue is full! Customer is lost.
+Time 217.67609289883598: Customer 71 arrives and joins Server 1's queue
+Time 217.67609289883598: Customer 71 arrives and joins Server 2's queue
+Time 221.07333155399246: Customer 72 arrives and joins Server 0's queue
+Time 221.07333155399246: Customer 72 arrives but all servers' queue is full! Customer is lost.
+Time 221.07333155399246: Customer 72 arrives but all servers' queue is full! Customer is lost.
+Time 221.44347599282597: Customer 73 arrives but all servers' queue is full! Customer is lost.
+Time 221.44347599282597: Customer 73 arrives but all servers' queue is full! Customer is lost.
+Time 221.44347599282597: Customer 73 arrives but all servers' queue is full! Customer is lost.
+Time 222.4828225254737: Customer 74 arrives but all servers' queue is full! Customer is lost.
+Time 222.4828225254737: Customer 74 arrives and joins Server 1's queue
+Time 222.4828225254737: Customer 74 arrives but all servers' queue is full! Customer is lost.
+Time 231.36996913012905: Customer 75 arrives and joins Server 0's queue
+Time 231.36996913012905: Customer 75 arrives but all servers' queue is full! Customer is lost.
+Time 231.36996913012905: Customer 75 arrives and joins Server 2's queue
+Time 232.41624490374602: Customer 76 arrives but all servers' queue is full! Customer is lost.
+Time 232.41624490374602: Customer 76 arrives but all servers' queue is full! Customer is lost.
+Time 232.41624490374602: Customer 76 arrives and joins Server 2's queue
+Time 245.822630360567: Customer 77 arrives but all servers' queue is full! Customer is lost.
+Time 245.822630360567: Customer 77 arrives and joins Server 1's queue
+Time 245.822630360567: Customer 77 arrives and joins Server 2's queue
+Time 253.06308985527528: Customer 78 arrives and joins Server 0's queue
+Time 253.06308985527528: Customer 78 arrives but all servers' queue is full! Customer is lost.
+Time 253.06308985527528: Customer 78 arrives and joins Server 2's queue
+Time 253.4724579695014: Customer 79 arrives but all servers' queue is full! Customer is lost.
+Time 253.4724579695014: Customer 79 arrives but all servers' queue is full! Customer is lost.
+Time 253.4724579695014: Customer 79 arrives but all servers' queue is full! Customer is lost.
+Time 257.035443133379: Customer 80 arrives and joins Server 0's queue
+Time 257.035443133379: Customer 80 arrives and joins Server 1's queue
+Time 257.035443133379: Customer 80 arrives and joins Server 2's queue
+Time 257.5245451544533: Customer 81 arrives but all servers' queue is full! Customer is lost.
+Time 257.5245451544533: Customer 81 arrives but all servers' queue is full! Customer is lost.
+Time 257.5245451544533: Customer 81 arrives but all servers' queue is full! Customer is lost.
+Time 259.2338551486583: Customer 82 arrives but all servers' queue is full! Customer is lost.
+Time 259.2338551486583: Customer 82 arrives but all servers' queue is full! Customer is lost.
+Time 259.2338551486583: Customer 82 arrives and joins Server 2's queue
+Time 262.25902408433535: Customer 83 arrives but all servers' queue is full! Customer is lost.
+Time 262.25902408433535: Customer 83 arrives but all servers' queue is full! Customer is lost.
+Time 262.25902408433535: Customer 83 arrives but all servers' queue is full! Customer is lost.
+Time 264.2045917790197: Customer 84 arrives but all servers' queue is full! Customer is lost.
+Time 264.2045917790197: Customer 84 arrives but all servers' queue is full! Customer is lost.
+Time 264.2045917790197: Customer 84 arrives but all servers' queue is full! Customer is lost.
+Time 268.60517735258486: Customer 85 arrives but all servers' queue is full! Customer is lost.
+Time 268.60517735258486: Customer 85 arrives but all servers' queue is full! Customer is lost.
+Time 268.60517735258486: Customer 85 arrives but all servers' queue is full! Customer is lost.
+Time 270.9175128745958: Customer 86 arrives but all servers' queue is full! Customer is lost.
+Time 270.9175128745958: Customer 86 arrives and joins Server 1's queue
+Time 270.9175128745958: Customer 86 arrives and joins Server 2's queue
+Time 272.46989361324086: Customer 87 arrives but all servers' queue is full! Customer is lost.
+Time 272.46989361324086: Customer 87 arrives but all servers' queue is full! Customer is lost.
+Time 272.46989361324086: Customer 87 arrives but all servers' queue is full! Customer is lost.
+Time 274.6168659999301: Customer 88 arrives but all servers' queue is full! Customer is lost.
+Time 274.6168659999301: Customer 88 arrives but all servers' queue is full! Customer is lost.
+Time 274.6168659999301: Customer 88 arrives but all servers' queue is full! Customer is lost.
+Time 279.79327767553184: Customer 89 arrives and joins Server 0's queue
+Time 279.79327767553184: Customer 89 arrives and joins Server 1's queue
+Time 279.79327767553184: Customer 89 arrives but all servers' queue is full! Customer is lost.
+Time 288.1829574983592: Customer 90 arrives and joins Server 0's queue
+Time 288.1829574983592: Customer 90 arrives but all servers' queue is full! Customer is lost.
+Time 288.1829574983592: Customer 90 arrives and joins Server 2's queue
+Time 289.39859541506877: Customer 91 arrives but all servers' queue is full! Customer is lost.
+Time 289.39859541506877: Customer 91 arrives but all servers' queue is full! Customer is lost.
+Time 289.39859541506877: Customer 91 arrives but all servers' queue is full! Customer is lost.
+Time 292.0465594559032: Customer 92 arrives and joins Server 0's queue
+Time 292.0465594559032: Customer 92 arrives and joins Server 1's queue
+Time 292.0465594559032: Customer 92 arrives and joins Server 2's queue
+Time 301.1187478137736: Customer 93 arrives but all servers' queue is full! Customer is lost.
+Time 301.1187478137736: Customer 93 arrives and joins Server 1's queue
+Time 301.1187478137736: Customer 93 arrives and joins Server 2's queue
+Time 301.2070540712941: Customer 94 arrives but all servers' queue is full! Customer is lost.
+Time 301.2070540712941: Customer 94 arrives but all servers' queue is full! Customer is lost.
+Time 301.2070540712941: Customer 94 arrives but all servers' queue is full! Customer is lost.
+Time 302.3219507684327: Customer 95 arrives and joins Server 0's queue
+Time 302.3219507684327: Customer 95 arrives but all servers' queue is full! Customer is lost.
+Time 302.3219507684327: Customer 95 arrives and joins Server 2's queue
+Time 304.80069675820215: Customer 96 arrives but all servers' queue is full! Customer is lost.
+Time 304.80069675820215: Customer 96 arrives and joins Server 1's queue
+Time 304.80069675820215: Customer 96 arrives but all servers' queue is full! Customer is lost.
+Time 306.38303528654126: Customer 97 arrives but all servers' queue is full! Customer is lost.
+Time 306.38303528654126: Customer 97 arrives but all servers' queue is full! Customer is lost.
+Time 306.38303528654126: Customer 97 arrives but all servers' queue is full! Customer is lost.
+Time 309.18496692426737: Customer 98 arrives but all servers' queue is full! Customer is lost.
+Time 309.18496692426737: Customer 98 arrives but all servers' queue is full! Customer is lost.
+Time 309.18496692426737: Customer 98 arrives but all servers' queue is full! Customer is lost.
+Time 309.5792423766042: Customer 99 arrives and joins Server 0's queue
+Time 309.5792423766042: Customer 99 arrives but all servers' queue is full! Customer is lost.
+Time 309.5792423766042: Customer 99 arrives but all servers' queue is full! Customer is lost.
+Time 309.824020489609: Customer 100 arrives but all servers' queue is full! Customer is lost.
+Time 309.824020489609: Customer 100 arrives but all servers' queue is full! Customer is lost.
+Time 309.824020489609: Customer 100 arrives but all servers' queue is full! Customer is lost.
+Time 309.99741784043215: Customer 101 arrives but all servers' queue is full! Customer is lost.
+Time 309.99741784043215: Customer 101 arrives but all servers' queue is full! Customer is lost.
+Time 309.99741784043215: Customer 101 arrives but all servers' queue is full! Customer is lost.
+Time 310.1550101914399: Customer 102 arrives but all servers' queue is full! Customer is lost.
+Time 310.1550101914399: Customer 102 arrives but all servers' queue is full! Customer is lost.
+Time 310.1550101914399: Customer 102 arrives but all servers' queue is full! Customer is lost.
+Time 316.79019547618617: Customer 103 arrives and joins Server 0's queue
+Time 316.79019547618617: Customer 103 arrives and joins Server 1's queue
+Time 316.79019547618617: Customer 103 arrives and joins Server 2's queue
+Time 318.83317845578557: Customer 104 arrives but all servers' queue is full! Customer is lost.
+Time 318.83317845578557: Customer 104 arrives and joins Server 1's queue
+Time 318.83317845578557: Customer 104 arrives and joins Server 2's queue
+Time 319.33420840412987: Customer 105 arrives but all servers' queue is full! Customer is lost.
+Time 319.33420840412987: Customer 105 arrives but all servers' queue is full! Customer is lost.
+Time 319.33420840412987: Customer 105 arrives but all servers' queue is full! Customer is lost.
+Time 323.2513029831007: Customer 106 arrives and joins Server 0's queue
+Time 323.2513029831007: Customer 106 arrives but all servers' queue is full! Customer is lost.
+Time 323.2513029831007: Customer 106 arrives and joins Server 2's queue
+Time 323.8609242972688: Customer 107 arrives and joins Server 0's queue
+Time 323.8609242972688: Customer 107 arrives and joins Server 1's queue
+Time 323.8609242972688: Customer 107 arrives but all servers' queue is full! Customer is lost.
+Time 324.38866987058714: Customer 108 arrives but all servers' queue is full! Customer is lost.
+Time 324.38866987058714: Customer 108 arrives but all servers' queue is full! Customer is lost.
+Time 324.38866987058714: Customer 108 arrives and joins Server 2's queue
+Time 325.2625481401993: Customer 109 arrives but all servers' queue is full! Customer is lost.
+Time 325.2625481401993: Customer 109 arrives but all servers' queue is full! Customer is lost.
+Time 325.2625481401993: Customer 109 arrives but all servers' queue is full! Customer is lost.
+Time 327.4366349330858: Customer 110 arrives but all servers' queue is full! Customer is lost.
+Time 327.4366349330858: Customer 110 arrives but all servers' queue is full! Customer is lost.
+Time 327.4366349330858: Customer 110 arrives and joins Server 2's queue
+Time 328.88267672910524: Customer 111 arrives and joins Server 0's queue
+Time 328.88267672910524: Customer 111 arrives and joins Server 1's queue
+Time 328.88267672910524: Customer 111 arrives but all servers' queue is full! Customer is lost.
+Time 329.1821281369876: Customer 112 arrives but all servers' queue is full! Customer is lost.
+Time 329.1821281369876: Customer 112 arrives but all servers' queue is full! Customer is lost.
+Time 329.1821281369876: Customer 112 arrives but all servers' queue is full! Customer is lost.
+Time 329.19152531361084: Customer 113 arrives but all servers' queue is full! Customer is lost.
+Time 329.19152531361084: Customer 113 arrives but all servers' queue is full! Customer is lost.
+Time 329.19152531361084: Customer 113 arrives but all servers' queue is full! Customer is lost.
+Time 331.9623933164663: Customer 114 arrives and joins Server 0's queue
+Time 331.9623933164663: Customer 114 arrives but all servers' queue is full! Customer is lost.
+Time 331.9623933164663: Customer 114 arrives and joins Server 2's queue
+Time 334.2800117727308: Customer 115 arrives but all servers' queue is full! Customer is lost.
+Time 334.2800117727308: Customer 115 arrives but all servers' queue is full! Customer is lost.
+Time 334.2800117727308: Customer 115 arrives but all servers' queue is full! Customer is lost.
+Time 335.41475166780884: Customer 116 arrives but all servers' queue is full! Customer is lost.
+Time 335.41475166780884: Customer 116 arrives but all servers' queue is full! Customer is lost.
+Time 335.41475166780884: Customer 116 arrives but all servers' queue is full! Customer is lost.
+Time 336.6823179993859: Customer 117 arrives but all servers' queue is full! Customer is lost.
+Time 336.6823179993859: Customer 117 arrives but all servers' queue is full! Customer is lost.
+Time 336.6823179993859: Customer 117 arrives but all servers' queue is full! Customer is lost.
+Time 341.07290815962347: Customer 118 arrives and joins Server 0's queue
+Time 341.07290815962347: Customer 118 arrives but all servers' queue is full! Customer is lost.
+Time 341.07290815962347: Customer 118 arrives but all servers' queue is full! Customer is lost.
+Time 342.3066711029881: Customer 119 arrives but all servers' queue is full! Customer is lost.
+Time 342.3066711029881: Customer 119 arrives and joins Server 1's queue
+Time 342.3066711029881: Customer 119 arrives but all servers' queue is full! Customer is lost.
+Time 343.9123873533213: Customer 120 arrives and joins Server 0's queue
+Time 343.9123873533213: Customer 120 arrives and joins Server 1's queue
+Time 343.9123873533213: Customer 120 arrives but all servers' queue is full! Customer is lost.
+Time 348.51718405339034: Customer 121 arrives and joins Server 0's queue
+Time 348.51718405339034: Customer 121 arrives and joins Server 1's queue
+Time 348.51718405339034: Customer 121 arrives and joins Server 2's queue
+Time 351.02144967773006: Customer 122 arrives but all servers' queue is full! Customer is lost.
+Time 351.02144967773006: Customer 122 arrives but all servers' queue is full! Customer is lost.
+Time 351.02144967773006: Customer 122 arrives but all servers' queue is full! Customer is lost.
+Time 355.67168082356466: Customer 123 arrives and joins Server 0's queue
+Time 355.67168082356466: Customer 123 arrives but all servers' queue is full! Customer is lost.
+Time 355.67168082356466: Customer 123 arrives and joins Server 2's queue
+Time 355.97989693830726: Customer 124 arrives but all servers' queue is full! Customer is lost.
+Time 355.97989693830726: Customer 124 arrives but all servers' queue is full! Customer is lost.
+Time 355.97989693830726: Customer 124 arrives but all servers' queue is full! Customer is lost.
+Time 356.8733465725665: Customer 125 arrives and joins Server 0's queue
+Time 356.8733465725665: Customer 125 arrives but all servers' queue is full! Customer is lost.
+Time 356.8733465725665: Customer 125 arrives and joins Server 2's queue
+Time 358.1396051741657: Customer 126 arrives but all servers' queue is full! Customer is lost.
+Time 358.1396051741657: Customer 126 arrives but all servers' queue is full! Customer is lost.
+Time 358.1396051741657: Customer 126 arrives but all servers' queue is full! Customer is lost.
+Time 360.3999149470485: Customer 127 arrives but all servers' queue is full! Customer is lost.
+Time 360.3999149470485: Customer 127 arrives but all servers' queue is full! Customer is lost.
+Time 360.3999149470485: Customer 127 arrives but all servers' queue is full! Customer is lost.
+Time 361.13463418692686: Customer 128 arrives but all servers' queue is full! Customer is lost.
+Time 361.13463418692686: Customer 128 arrives but all servers' queue is full! Customer is lost.
+Time 361.13463418692686: Customer 128 arrives and joins Server 2's queue
+Time 363.5011927606568: Customer 129 arrives but all servers' queue is full! Customer is lost.
+Time 363.5011927606568: Customer 129 arrives but all servers' queue is full! Customer is lost.
+Time 363.5011927606568: Customer 129 arrives but all servers' queue is full! Customer is lost.
+Time 365.02941706021477: Customer 130 arrives but all servers' queue is full! Customer is lost.
+Time 365.02941706021477: Customer 130 arrives but all servers' queue is full! Customer is lost.
+Time 365.02941706021477: Customer 130 arrives but all servers' queue is full! Customer is lost.
+Time 365.24329112835113: Customer 131 arrives but all servers' queue is full! Customer is lost.
+Time 365.24329112835113: Customer 131 arrives but all servers' queue is full! Customer is lost.
+Time 365.24329112835113: Customer 131 arrives but all servers' queue is full! Customer is lost.
+Time 365.29003740547273: Customer 132 arrives but all servers' queue is full! Customer is lost.
+Time 365.29003740547273: Customer 132 arrives but all servers' queue is full! Customer is lost.
+Time 365.29003740547273: Customer 132 arrives but all servers' queue is full! Customer is lost.
+Time 369.0671086884083: Customer 133 arrives and joins Server 0's queue
+Time 369.0671086884083: Customer 133 arrives but all servers' queue is full! Customer is lost.
+Time 369.0671086884083: Customer 133 arrives and joins Server 2's queue
+Time 379.48039261858565: Customer 134 arrives and joins Server 0's queue
+Time 379.48039261858565: Customer 134 arrives and joins Server 1's queue
+Time 379.48039261858565: Customer 134 arrives and joins Server 2's queue
+Time 386.2847227041525: Customer 135 arrives but all servers' queue is full! Customer is lost.
+Time 386.2847227041525: Customer 135 arrives and joins Server 1's queue
+Time 386.2847227041525: Customer 135 arrives and joins Server 2's queue
+Time 386.33847669438114: Customer 136 arrives but all servers' queue is full! Customer is lost.
+Time 386.33847669438114: Customer 136 arrives but all servers' queue is full! Customer is lost.
+Time 386.33847669438114: Customer 136 arrives but all servers' queue is full! Customer is lost.
+Time 387.8716268839942: Customer 137 arrives but all servers' queue is full! Customer is lost.
+Time 387.8716268839942: Customer 137 arrives but all servers' queue is full! Customer is lost.
+Time 387.8716268839942: Customer 137 arrives and joins Server 2's queue
+Time 389.3415406532385: Customer 138 arrives and joins Server 0's queue
+Time 389.3415406532385: Customer 138 arrives but all servers' queue is full! Customer is lost.
+Time 389.3415406532385: Customer 138 arrives but all servers' queue is full! Customer is lost.
+Time 393.1210938668584: Customer 139 arrives and joins Server 0's queue
+Time 393.1210938668584: Customer 139 arrives but all servers' queue is full! Customer is lost.
+Time 393.1210938668584: Customer 139 arrives but all servers' queue is full! Customer is lost.
+Time 393.5920955862786: Customer 140 arrives but all servers' queue is full! Customer is lost.
+Time 393.5920955862786: Customer 140 arrives and joins Server 1's queue
+Time 393.5920955862786: Customer 140 arrives and joins Server 2's queue
+Time 398.92360965472244: Customer 141 arrives but all servers' queue is full! Customer is lost.
+Time 398.92360965472244: Customer 141 arrives but all servers' queue is full! Customer is lost.
+Time 398.92360965472244: Customer 141 arrives but all servers' queue is full! Customer is lost.
+Time 413.0581565736095: Customer 142 arrives and joins Server 0's queue
+Time 413.0581565736095: Customer 142 arrives and joins Server 1's queue
+Time 413.0581565736095: Customer 142 arrives and joins Server 2's queue
+Time 415.5267741700375: Customer 143 arrives and joins Server 0's queue
+Time 415.5267741700375: Customer 143 arrives but all servers' queue is full! Customer is lost.
+Time 415.5267741700375: Customer 143 arrives but all servers' queue is full! Customer is lost.
+Time 417.94142930635047: Customer 144 arrives but all servers' queue is full! Customer is lost.
+Time 417.94142930635047: Customer 144 arrives but all servers' queue is full! Customer is lost.
+Time 417.94142930635047: Customer 144 arrives and joins Server 2's queue
+Time 420.5458238047702: Customer 145 arrives and joins Server 0's queue
+Time 420.5458238047702: Customer 145 arrives but all servers' queue is full! Customer is lost.
+Time 420.5458238047702: Customer 145 arrives but all servers' queue is full! Customer is lost.
+Time 423.18989631697997: Customer 146 arrives but all servers' queue is full! Customer is lost.
+Time 423.18989631697997: Customer 146 arrives but all servers' queue is full! Customer is lost.
+Time 423.18989631697997: Customer 146 arrives but all servers' queue is full! Customer is lost.
+Time 430.29292647075897: Customer 147 arrives but all servers' queue is full! Customer is lost.
+Time 430.29292647075897: Customer 147 arrives and joins Server 1's queue
+Time 430.29292647075897: Customer 147 arrives and joins Server 2's queue
+Time 431.6816233648367: Customer 148 arrives but all servers' queue is full! Customer is lost.
+Time 431.6816233648367: Customer 148 arrives but all servers' queue is full! Customer is lost.
+Time 431.6816233648367: Customer 148 arrives but all servers' queue is full! Customer is lost.
+Time 434.107841680001: Customer 149 arrives but all servers' queue is full! Customer is lost.
+Time 434.107841680001: Customer 149 arrives but all servers' queue is full! Customer is lost.
+Time 434.107841680001: Customer 149 arrives but all servers' queue is full! Customer is lost.
+Time 442.5261894367791: Customer 150 arrives and joins Server 0's queue
+Time 442.5261894367791: Customer 150 arrives and joins Server 1's queue
+Time 442.5261894367791: Customer 150 arrives and joins Server 2's queue
+Time 450.9923218082877: Customer 151 arrives and joins Server 0's queue
+Time 450.9923218082877: Customer 151 arrives and joins Server 1's queue
+Time 450.9923218082877: Customer 151 arrives and joins Server 2's queue
+Time 452.72714022219384: Customer 152 arrives but all servers' queue is full! Customer is lost.
+Time 452.72714022219384: Customer 152 arrives but all servers' queue is full! Customer is lost.
+Time 452.72714022219384: Customer 152 arrives and joins Server 2's queue
+Time 454.88468076585315: Customer 153 arrives and joins Server 0's queue
+Time 454.88468076585315: Customer 153 arrives and joins Server 1's queue
+Time 454.88468076585315: Customer 153 arrives but all servers' queue is full! Customer is lost.
+Time 462.91110402903615: Customer 154 arrives but all servers' queue is full! Customer is lost.
+Time 462.91110402903615: Customer 154 arrives but all servers' queue is full! Customer is lost.
+Time 462.91110402903615: Customer 154 arrives and joins Server 2's queue
+Time 467.20596111196227: Customer 155 arrives and joins Server 0's queue
+Time 467.20596111196227: Customer 155 arrives and joins Server 1's queue
+Time 467.20596111196227: Customer 155 arrives and joins Server 2's queue
+Time 468.5252637727675: Customer 156 arrives but all servers' queue is full! Customer is lost.
+Time 468.5252637727675: Customer 156 arrives but all servers' queue is full! Customer is lost.
+Time 468.5252637727675: Customer 156 arrives and joins Server 2's queue
+Time 471.74712347666707: Customer 157 arrives and joins Server 0's queue
+Time 471.74712347666707: Customer 157 arrives but all servers' queue is full! Customer is lost.
+Time 471.74712347666707: Customer 157 arrives but all servers' queue is full! Customer is lost.
+Time 476.0867398311719: Customer 158 arrives but all servers' queue is full! Customer is lost.
+Time 476.0867398311719: Customer 158 arrives and joins Server 1's queue
+Time 476.0867398311719: Customer 158 arrives but all servers' queue is full! Customer is lost.
+Time 481.56391903348947: Customer 159 arrives but all servers' queue is full! Customer is lost.
+Time 481.56391903348947: Customer 159 arrives but all servers' queue is full! Customer is lost.
+Time 481.56391903348947: Customer 159 arrives and joins Server 2's queue
+Time 483.7899901569357: Customer 160 arrives but all servers' queue is full! Customer is lost.
+Time 483.7899901569357: Customer 160 arrives and joins Server 1's queue
+Time 483.7899901569357: Customer 160 arrives but all servers' queue is full! Customer is lost.
+Time 483.81290870847306: Customer 161 arrives but all servers' queue is full! Customer is lost.
+Time 483.81290870847306: Customer 161 arrives but all servers' queue is full! Customer is lost.
+Time 483.81290870847306: Customer 161 arrives but all servers' queue is full! Customer is lost.
+Time 489.5158825383058: Customer 162 arrives and joins Server 0's queue
+Time 489.5158825383058: Customer 162 arrives and joins Server 1's queue
+Time 489.5158825383058: Customer 162 arrives but all servers' queue is full! Customer is lost.
+Time 492.0214975138491: Customer 163 arrives and joins Server 0's queue
+Time 492.0214975138491: Customer 163 arrives but all servers' queue is full! Customer is lost.
+Time 492.0214975138491: Customer 163 arrives but all servers' queue is full! Customer is lost.
+Time 494.9317338011831: Customer 164 arrives and joins Server 0's queue
+Time 494.9317338011831: Customer 164 arrives and joins Server 1's queue
+Time 494.9317338011831: Customer 164 arrives but all servers' queue is full! Customer is lost.
+Time 499.75719272964506: Customer 165 arrives and joins Server 0's queue
+Time 499.75719272964506: Customer 165 arrives and joins Server 1's queue
+Time 499.75719272964506: Customer 165 arrives and joins Server 2's queue
+Time 501.6375067512318: Customer 166 arrives but all servers' queue is full! Customer is lost.
+Time 501.6375067512318: Customer 166 arrives but all servers' queue is full! Customer is lost.
+Time 501.6375067512318: Customer 166 arrives but all servers' queue is full! Customer is lost.
+Time 503.60870150752737: Customer 167 arrives and joins Server 0's queue
+Time 503.60870150752737: Customer 167 arrives but all servers' queue is full! Customer is lost.
+Time 503.60870150752737: Customer 167 arrives but all servers' queue is full! Customer is lost.
+Time 503.6311555426447: Customer 168 arrives but all servers' queue is full! Customer is lost.
+Time 503.6311555426447: Customer 168 arrives but all servers' queue is full! Customer is lost.
+Time 503.6311555426447: Customer 168 arrives but all servers' queue is full! Customer is lost.
+Time 505.81562451555527: Customer 169 arrives but all servers' queue is full! Customer is lost.
+Time 505.81562451555527: Customer 169 arrives but all servers' queue is full! Customer is lost.
+Time 505.81562451555527: Customer 169 arrives and joins Server 2's queue
+Time 507.4725165473032: Customer 170 arrives but all servers' queue is full! Customer is lost.
+Time 507.4725165473032: Customer 170 arrives but all servers' queue is full! Customer is lost.
+Time 507.4725165473032: Customer 170 arrives but all servers' queue is full! Customer is lost.
+Time 507.9613632024012: Customer 171 arrives but all servers' queue is full! Customer is lost.
+Time 507.9613632024012: Customer 171 arrives but all servers' queue is full! Customer is lost.
+Time 507.9613632024012: Customer 171 arrives but all servers' queue is full! Customer is lost.
+Time 511.83407973026704: Customer 172 arrives but all servers' queue is full! Customer is lost.
+Time 511.83407973026704: Customer 172 arrives but all servers' queue is full! Customer is lost.
+Time 511.83407973026704: Customer 172 arrives and joins Server 2's queue
+Time 512.0270460117094: Customer 173 arrives but all servers' queue is full! Customer is lost.
+Time 512.0270460117094: Customer 173 arrives but all servers' queue is full! Customer is lost.
+Time 512.0270460117094: Customer 173 arrives but all servers' queue is full! Customer is lost.
+Time 517.2956984369633: Customer 174 arrives but all servers' queue is full! Customer is lost.
+Time 517.2956984369633: Customer 174 arrives but all servers' queue is full! Customer is lost.
+Time 517.2956984369633: Customer 174 arrives but all servers' queue is full! Customer is lost.
+Time 521.4555323226434: Customer 175 arrives and joins Server 0's queue
+Time 521.4555323226434: Customer 175 arrives but all servers' queue is full! Customer is lost.
+Time 521.4555323226434: Customer 175 arrives and joins Server 2's queue
+Time 524.4028030282759: Customer 176 arrives and joins Server 0's queue
+Time 524.4028030282759: Customer 176 arrives but all servers' queue is full! Customer is lost.
+Time 524.4028030282759: Customer 176 arrives and joins Server 2's queue
+Time 527.6929948222147: Customer 177 arrives but all servers' queue is full! Customer is lost.
+Time 527.6929948222147: Customer 177 arrives but all servers' queue is full! Customer is lost.
+Time 527.6929948222147: Customer 177 arrives and joins Server 2's queue
+Time 527.8743230310594: Customer 178 arrives but all servers' queue is full! Customer is lost.
+Time 527.8743230310594: Customer 178 arrives but all servers' queue is full! Customer is lost.
+Time 527.8743230310594: Customer 178 arrives but all servers' queue is full! Customer is lost.
+Time 529.869441205316: Customer 179 arrives but all servers' queue is full! Customer is lost.
+Time 529.869441205316: Customer 179 arrives and joins Server 1's queue
+Time 529.869441205316: Customer 179 arrives and joins Server 2's queue
+Time 530.7698557341956: Customer 180 arrives but all servers' queue is full! Customer is lost.
+Time 530.7698557341956: Customer 180 arrives and joins Server 1's queue
+Time 530.7698557341956: Customer 180 arrives but all servers' queue is full! Customer is lost.
+Time 531.4381209086164: Customer 181 arrives but all servers' queue is full! Customer is lost.
+Time 531.4381209086164: Customer 181 arrives but all servers' queue is full! Customer is lost.
+Time 531.4381209086164: Customer 181 arrives but all servers' queue is full! Customer is lost.
+Time 531.5692838394656: Customer 182 arrives but all servers' queue is full! Customer is lost.
+Time 531.5692838394656: Customer 182 arrives but all servers' queue is full! Customer is lost.
+Time 531.5692838394656: Customer 182 arrives but all servers' queue is full! Customer is lost.
+Time 532.1867371440595: Customer 183 arrives but all servers' queue is full! Customer is lost.
+Time 532.1867371440595: Customer 183 arrives but all servers' queue is full! Customer is lost.
+Time 532.1867371440595: Customer 183 arrives and joins Server 2's queue
+Time 533.6623649201603: Customer 184 arrives and joins Server 0's queue
+Time 533.6623649201603: Customer 184 arrives but all servers' queue is full! Customer is lost.
+Time 533.6623649201603: Customer 184 arrives but all servers' queue is full! Customer is lost.
+Time 539.4440475571482: Customer 185 arrives and joins Server 0's queue
+Time 539.4440475571482: Customer 185 arrives and joins Server 1's queue
+Time 539.4440475571482: Customer 185 arrives and joins Server 2's queue
+Time 550.7216426675615: Customer 186 arrives and joins Server 0's queue
+Time 550.7216426675615: Customer 186 arrives and joins Server 1's queue
+Time 550.7216426675615: Customer 186 arrives and joins Server 2's queue
+Time 551.1509233784774: Customer 187 arrives but all servers' queue is full! Customer is lost.
+Time 551.1509233784774: Customer 187 arrives but all servers' queue is full! Customer is lost.
+Time 551.1509233784774: Customer 187 arrives but all servers' queue is full! Customer is lost.
+Time 551.4129238491643: Customer 188 arrives but all servers' queue is full! Customer is lost.
+Time 551.4129238491643: Customer 188 arrives but all servers' queue is full! Customer is lost.
+Time 551.4129238491643: Customer 188 arrives but all servers' queue is full! Customer is lost.
+Time 551.8630945892219: Customer 189 arrives but all servers' queue is full! Customer is lost.
+Time 551.8630945892219: Customer 189 arrives but all servers' queue is full! Customer is lost.
+Time 551.8630945892219: Customer 189 arrives but all servers' queue is full! Customer is lost.
+Time 551.9528831413456: Customer 190 arrives but all servers' queue is full! Customer is lost.
+Time 551.9528831413456: Customer 190 arrives but all servers' queue is full! Customer is lost.
+Time 551.9528831413456: Customer 190 arrives but all servers' queue is full! Customer is lost.
+Time 561.3801567889161: Customer 191 arrives and joins Server 0's queue
+Time 561.3801567889161: Customer 191 arrives and joins Server 1's queue
+Time 561.3801567889161: Customer 191 arrives and joins Server 2's queue
+Time 563.2659273367823: Customer 192 arrives but all servers' queue is full! Customer is lost.
+Time 563.2659273367823: Customer 192 arrives and joins Server 1's queue
+Time 563.2659273367823: Customer 192 arrives but all servers' queue is full! Customer is lost.
+Time 563.6094847324506: Customer 193 arrives but all servers' queue is full! Customer is lost.
+Time 563.6094847324506: Customer 193 arrives but all servers' queue is full! Customer is lost.
+Time 563.6094847324506: Customer 193 arrives but all servers' queue is full! Customer is lost.
+Time 565.3364989077077: Customer 194 arrives but all servers' queue is full! Customer is lost.
+Time 565.3364989077077: Customer 194 arrives but all servers' queue is full! Customer is lost.
+Time 565.3364989077077: Customer 194 arrives and joins Server 2's queue
+Time 565.8560818628562: Customer 195 arrives but all servers' queue is full! Customer is lost.
+Time 565.8560818628562: Customer 195 arrives but all servers' queue is full! Customer is lost.
+Time 565.8560818628562: Customer 195 arrives but all servers' queue is full! Customer is lost.
+Time 565.9984851416325: Customer 196 arrives but all servers' queue is full! Customer is lost.
+Time 565.9984851416325: Customer 196 arrives but all servers' queue is full! Customer is lost.
+Time 565.9984851416325: Customer 196 arrives but all servers' queue is full! Customer is lost.
+Time 568.7547592971464: Customer 197 arrives and joins Server 0's queue
+Time 568.7547592971464: Customer 197 arrives but all servers' queue is full! Customer is lost.
+Time 568.7547592971464: Customer 197 arrives but all servers' queue is full! Customer is lost.
+Time 570.1159808333621: Customer 198 arrives but all servers' queue is full! Customer is lost.
+Time 570.1159808333621: Customer 198 arrives but all servers' queue is full! Customer is lost.
+Time 570.1159808333621: Customer 198 arrives but all servers' queue is full! Customer is lost.
+Time 572.0114816051532: Customer 199 arrives and joins Server 0's queue
+Time 572.0114816051532: Customer 199 arrives but all servers' queue is full! Customer is lost.
+Time 572.0114816051532: Customer 199 arrives and joins Server 2's queue
+Time 574.1588688903238: Customer 200 arrives and joins Server 0's queue
+Time 574.1588688903238: Customer 200 arrives but all servers' queue is full! Customer is lost.
+Time 574.1588688903238: Customer 200 arrives and joins Server 2's queue
+Time 578.8780857112058: Customer 201 arrives and joins Server 0's queue
+Time 578.8780857112058: Customer 201 arrives and joins Server 1's queue
+Time 578.8780857112058: Customer 201 arrives and joins Server 2's queue
+Time 580.5205596373977: Customer 202 arrives but all servers' queue is full! Customer is lost.
+Time 580.5205596373977: Customer 202 arrives but all servers' queue is full! Customer is lost.
+Time 580.5205596373977: Customer 202 arrives but all servers' queue is full! Customer is lost.
+Time 585.5634534516472: Customer 203 arrives and joins Server 0's queue
+Time 585.5634534516472: Customer 203 arrives but all servers' queue is full! Customer is lost.
+Time 585.5634534516472: Customer 203 arrives but all servers' queue is full! Customer is lost.
+Time 586.6592934267335: Customer 204 arrives but all servers' queue is full! Customer is lost.
+Time 586.6592934267335: Customer 204 arrives and joins Server 1's queue
+Time 586.6592934267335: Customer 204 arrives but all servers' queue is full! Customer is lost.
+Time 589.169783686674: Customer 205 arrives but all servers' queue is full! Customer is lost.
+Time 589.169783686674: Customer 205 arrives but all servers' queue is full! Customer is lost.
+Time 589.169783686674: Customer 205 arrives but all servers' queue is full! Customer is lost.
+Time 591.989878699795: Customer 206 arrives but all servers' queue is full! Customer is lost.
+Time 591.989878699795: Customer 206 arrives but all servers' queue is full! Customer is lost.
+Time 591.989878699795: Customer 206 arrives but all servers' queue is full! Customer is lost.
+Time 592.0992965218385: Customer 207 arrives but all servers' queue is full! Customer is lost.
+Time 592.0992965218385: Customer 207 arrives but all servers' queue is full! Customer is lost.
+Time 592.0992965218385: Customer 207 arrives but all servers' queue is full! Customer is lost.
+Time 593.0886923343897: Customer 208 arrives but all servers' queue is full! Customer is lost.
+Time 593.0886923343897: Customer 208 arrives but all servers' queue is full! Customer is lost.
+Time 593.0886923343897: Customer 208 arrives but all servers' queue is full! Customer is lost.
+Time 593.9683931918286: Customer 209 arrives but all servers' queue is full! Customer is lost.
+Time 593.9683931918286: Customer 209 arrives but all servers' queue is full! Customer is lost.
+Time 593.9683931918286: Customer 209 arrives but all servers' queue is full! Customer is lost.
+Time 594.0683387514453: Customer 210 arrives but all servers' queue is full! Customer is lost.
+Time 594.0683387514453: Customer 210 arrives but all servers' queue is full! Customer is lost.
+Time 594.0683387514453: Customer 210 arrives but all servers' queue is full! Customer is lost.
+Time 598.8933961049552: Customer 211 arrives and joins Server 0's queue
+Time 598.8933961049552: Customer 211 arrives and joins Server 1's queue
+Time 598.8933961049552: Customer 211 arrives and joins Server 2's queue
+Time 600.7338335522105: Customer 212 arrives but all servers' queue is full! Customer is lost.
+Time 600.7338335522105: Customer 212 arrives but all servers' queue is full! Customer is lost.
+Time 600.7338335522105: Customer 212 arrives and joins Server 2's queue
+Time 602.4299569010548: Customer 213 arrives but all servers' queue is full! Customer is lost.
+Time 602.4299569010548: Customer 213 arrives but all servers' queue is full! Customer is lost.
+Time 602.4299569010548: Customer 213 arrives but all servers' queue is full! Customer is lost.
+Time 605.1215276154991: Customer 214 arrives but all servers' queue is full! Customer is lost.
+Time 605.1215276154991: Customer 214 arrives but all servers' queue is full! Customer is lost.
+Time 605.1215276154991: Customer 214 arrives but all servers' queue is full! Customer is lost.
+Time 607.4041672471018: Customer 215 arrives but all servers' queue is full! Customer is lost.
+Time 607.4041672471018: Customer 215 arrives and joins Server 1's queue
+Time 607.4041672471018: Customer 215 arrives and joins Server 2's queue
+Time 609.6918622756489: Customer 216 arrives but all servers' queue is full! Customer is lost.
+Time 609.6918622756489: Customer 216 arrives but all servers' queue is full! Customer is lost.
+Time 609.6918622756489: Customer 216 arrives and joins Server 2's queue
+Time 610.8016150468962: Customer 217 arrives and joins Server 0's queue
+Time 610.8016150468962: Customer 217 arrives but all servers' queue is full! Customer is lost.
+Time 610.8016150468962: Customer 217 arrives but all servers' queue is full! Customer is lost.
+Time 613.8618862094651: Customer 218 arrives and joins Server 0's queue
+Time 613.8618862094651: Customer 218 arrives and joins Server 1's queue
+Time 613.8618862094651: Customer 218 arrives but all servers' queue is full! Customer is lost.
+Time 614.4788510761215: Customer 219 arrives and joins Server 0's queue
+Time 614.4788510761215: Customer 219 arrives but all servers' queue is full! Customer is lost.
+Time 614.4788510761215: Customer 219 arrives but all servers' queue is full! Customer is lost.
+Time 615.0299314015597: Customer 220 arrives and joins Server 0's queue
+Time 615.0299314015597: Customer 220 arrives but all servers' queue is full! Customer is lost.
+Time 615.0299314015597: Customer 220 arrives but all servers' queue is full! Customer is lost.
+Time 620.073123938751: Customer 221 arrives and joins Server 0's queue
+Time 620.073123938751: Customer 221 arrives but all servers' queue is full! Customer is lost.
+Time 620.073123938751: Customer 221 arrives and joins Server 2's queue
+Time 620.473735011201: Customer 222 arrives but all servers' queue is full! Customer is lost.
+Time 620.473735011201: Customer 222 arrives and joins Server 1's queue
+Time 620.473735011201: Customer 222 arrives but all servers' queue is full! Customer is lost.
+Time 620.5731698066508: Customer 223 arrives but all servers' queue is full! Customer is lost.
+Time 620.5731698066508: Customer 223 arrives but all servers' queue is full! Customer is lost.
+Time 620.5731698066508: Customer 223 arrives but all servers' queue is full! Customer is lost.
+Time 623.4960642924067: Customer 224 arrives but all servers' queue is full! Customer is lost.
+Time 623.4960642924067: Customer 224 arrives and joins Server 1's queue
+Time 623.4960642924067: Customer 224 arrives and joins Server 2's queue
+Time 624.8502310400968: Customer 225 arrives and joins Server 0's queue
+Time 624.8502310400968: Customer 225 arrives but all servers' queue is full! Customer is lost.
+Time 624.8502310400968: Customer 225 arrives but all servers' queue is full! Customer is lost.
+Time 625.6066058445969: Customer 226 arrives but all servers' queue is full! Customer is lost.
+Time 625.6066058445969: Customer 226 arrives but all servers' queue is full! Customer is lost.
+Time 625.6066058445969: Customer 226 arrives but all servers' queue is full! Customer is lost.
+Time 634.0627421595162: Customer 227 arrives and joins Server 0's queue
+Time 634.0627421595162: Customer 227 arrives and joins Server 1's queue
+Time 634.0627421595162: Customer 227 arrives and joins Server 2's queue
+Time 636.6717290033278: Customer 228 arrives and joins Server 0's queue
+Time 636.6717290033278: Customer 228 arrives but all servers' queue is full! Customer is lost.
+Time 636.6717290033278: Customer 228 arrives but all servers' queue is full! Customer is lost.
+Time 649.0465271276635: Customer 229 arrives and joins Server 0's queue
+Time 649.0465271276635: Customer 229 arrives but all servers' queue is full! Customer is lost.
+Time 649.0465271276635: Customer 229 arrives and joins Server 2's queue
+Time 649.4989276467776: Customer 230 arrives but all servers' queue is full! Customer is lost.
+Time 649.4989276467776: Customer 230 arrives but all servers' queue is full! Customer is lost.
+Time 649.4989276467776: Customer 230 arrives but all servers' queue is full! Customer is lost.
+Time 650.0061843487722: Customer 231 arrives but all servers' queue is full! Customer is lost.
+Time 650.0061843487722: Customer 231 arrives but all servers' queue is full! Customer is lost.
+Time 650.0061843487722: Customer 231 arrives but all servers' queue is full! Customer is lost.
+Time 650.1004528112251: Customer 232 arrives but all servers' queue is full! Customer is lost.
+Time 650.1004528112251: Customer 232 arrives but all servers' queue is full! Customer is lost.
+Time 650.1004528112251: Customer 232 arrives but all servers' queue is full! Customer is lost.
+Time 665.9196999475513: Customer 233 arrives and joins Server 0's queue
+Time 665.9196999475513: Customer 233 arrives and joins Server 1's queue
+Time 665.9196999475513: Customer 233 arrives but all servers' queue is full! Customer is lost.
+Time 668.3836507263941: Customer 234 arrives but all servers' queue is full! Customer is lost.
+Time 668.3836507263941: Customer 234 arrives but all servers' queue is full! Customer is lost.
+Time 668.3836507263941: Customer 234 arrives but all servers' queue is full! Customer is lost.
+Time 670.735860413756: Customer 235 arrives but all servers' queue is full! Customer is lost.
+Time 670.735860413756: Customer 235 arrives and joins Server 1's queue
+Time 670.735860413756: Customer 235 arrives and joins Server 2's queue
+Time 687.0803505389513: Customer 236 arrives and joins Server 0's queue
+Time 687.0803505389513: Customer 236 arrives and joins Server 1's queue
+Time 687.0803505389513: Customer 236 arrives and joins Server 2's queue
+Time 693.1440725781222: Customer 237 arrives but all servers' queue is full! Customer is lost.
+Time 693.1440725781222: Customer 237 arrives but all servers' queue is full! Customer is lost.
+Time 693.1440725781222: Customer 237 arrives and joins Server 2's queue
+Time 693.2734083522695: Customer 238 arrives but all servers' queue is full! Customer is lost.
+Time 693.2734083522695: Customer 238 arrives but all servers' queue is full! Customer is lost.
+Time 693.2734083522695: Customer 238 arrives but all servers' queue is full! Customer is lost.
+Time 694.4117857881553: Customer 239 arrives but all servers' queue is full! Customer is lost.
+Time 694.4117857881553: Customer 239 arrives but all servers' queue is full! Customer is lost.
+Time 694.4117857881553: Customer 239 arrives but all servers' queue is full! Customer is lost.
+Time 695.1807639540493: Customer 240 arrives but all servers' queue is full! Customer is lost.
+Time 695.1807639540493: Customer 240 arrives but all servers' queue is full! Customer is lost.
+Time 695.1807639540493: Customer 240 arrives but all servers' queue is full! Customer is lost.
+Time 699.7210426462555: Customer 241 arrives and joins Server 0's queue
+Time 699.7210426462555: Customer 241 arrives but all servers' queue is full! Customer is lost.
+Time 699.7210426462555: Customer 241 arrives and joins Server 2's queue
+Time 701.066378888613: Customer 242 arrives but all servers' queue is full! Customer is lost.
+Time 701.066378888613: Customer 242 arrives and joins Server 1's queue
+Time 701.066378888613: Customer 242 arrives and joins Server 2's queue
+Time 703.2709389590697: Customer 243 arrives and joins Server 0's queue
+Time 703.2709389590697: Customer 243 arrives and joins Server 1's queue
+Time 703.2709389590697: Customer 243 arrives but all servers' queue is full! Customer is lost.
+Time 705.2128813689749: Customer 244 arrives and joins Server 0's queue
+Time 705.2128813689749: Customer 244 arrives and joins Server 1's queue
+Time 705.2128813689749: Customer 244 arrives but all servers' queue is full! Customer is lost.
+Time 709.033669323252: Customer 245 arrives and joins Server 0's queue
+Time 709.033669323252: Customer 245 arrives but all servers' queue is full! Customer is lost.
+Time 709.033669323252: Customer 245 arrives but all servers' queue is full! Customer is lost.
+Time 709.1165097179921: Customer 246 arrives but all servers' queue is full! Customer is lost.
+Time 709.1165097179921: Customer 246 arrives but all servers' queue is full! Customer is lost.
+Time 709.1165097179921: Customer 246 arrives but all servers' queue is full! Customer is lost.
+Time 709.530496401959: Customer 247 arrives but all servers' queue is full! Customer is lost.
+Time 709.530496401959: Customer 247 arrives but all servers' queue is full! Customer is lost.
+Time 709.530496401959: Customer 247 arrives but all servers' queue is full! Customer is lost.
+Time 711.8054081176834: Customer 248 arrives and joins Server 0's queue
+Time 711.8054081176834: Customer 248 arrives and joins Server 1's queue
+Time 711.8054081176834: Customer 248 arrives but all servers' queue is full! Customer is lost.
+Time 715.7771708319985: Customer 249 arrives and joins Server 0's queue
+Time 715.7771708319985: Customer 249 arrives and joins Server 1's queue
+Time 715.7771708319985: Customer 249 arrives and joins Server 2's queue
+Time 717.7761838088438: Customer 250 arrives but all servers' queue is full! Customer is lost.
+Time 717.7761838088438: Customer 250 arrives but all servers' queue is full! Customer is lost.
+Time 717.7761838088438: Customer 250 arrives but all servers' queue is full! Customer is lost.
+Time 736.4845084950732: Customer 251 arrives and joins Server 0's queue
+Time 736.4845084950732: Customer 251 arrives and joins Server 1's queue
+Time 736.4845084950732: Customer 251 arrives and joins Server 2's queue
+Time 736.7411360807758: Customer 252 arrives but all servers' queue is full! Customer is lost.
+Time 736.7411360807758: Customer 252 arrives but all servers' queue is full! Customer is lost.
+Time 736.7411360807758: Customer 252 arrives but all servers' queue is full! Customer is lost.
+Time 736.8541460377999: Customer 253 arrives but all servers' queue is full! Customer is lost.
+Time 736.8541460377999: Customer 253 arrives but all servers' queue is full! Customer is lost.
+Time 736.8541460377999: Customer 253 arrives but all servers' queue is full! Customer is lost.
+Time 743.7935325191887: Customer 254 arrives and joins Server 0's queue
+Time 743.7935325191887: Customer 254 arrives and joins Server 1's queue
+Time 743.7935325191887: Customer 254 arrives and joins Server 2's queue
+Time 746.8418398719044: Customer 255 arrives but all servers' queue is full! Customer is lost.
+Time 746.8418398719044: Customer 255 arrives but all servers' queue is full! Customer is lost.
+Time 746.8418398719044: Customer 255 arrives and joins Server 2's queue
+Time 747.9056986881211: Customer 256 arrives but all servers' queue is full! Customer is lost.
+Time 747.9056986881211: Customer 256 arrives but all servers' queue is full! Customer is lost.
+Time 747.9056986881211: Customer 256 arrives but all servers' queue is full! Customer is lost.
+Time 748.705174765042: Customer 257 arrives and joins Server 0's queue
+Time 748.705174765042: Customer 257 arrives but all servers' queue is full! Customer is lost.
+Time 748.705174765042: Customer 257 arrives but all servers' queue is full! Customer is lost.
+Time 752.87292948206: Customer 258 arrives and joins Server 0's queue
+Time 752.87292948206: Customer 258 arrives and joins Server 1's queue
+Time 752.87292948206: Customer 258 arrives and joins Server 2's queue
+Time 759.9947365151215: Customer 259 arrives and joins Server 0's queue
+Time 759.9947365151215: Customer 259 arrives and joins Server 1's queue
+Time 759.9947365151215: Customer 259 arrives but all servers' queue is full! Customer is lost.
+Time 763.8893424914314: Customer 260 arrives but all servers' queue is full! Customer is lost.
+Time 763.8893424914314: Customer 260 arrives and joins Server 1's queue
+Time 763.8893424914314: Customer 260 arrives and joins Server 2's queue
+Time 773.9541730048142: Customer 261 arrives and joins Server 0's queue
+Time 773.9541730048142: Customer 261 arrives but all servers' queue is full! Customer is lost.
+Time 773.9541730048142: Customer 261 arrives and joins Server 2's queue
+Time 774.53379968419: Customer 262 arrives but all servers' queue is full! Customer is lost.
+Time 774.53379968419: Customer 262 arrives but all servers' queue is full! Customer is lost.
+Time 774.53379968419: Customer 262 arrives but all servers' queue is full! Customer is lost.
+Time 777.1083671147891: Customer 263 arrives but all servers' queue is full! Customer is lost.
+Time 777.1083671147891: Customer 263 arrives and joins Server 1's queue
+Time 777.1083671147891: Customer 263 arrives and joins Server 2's queue
+Time 777.1488602464169: Customer 264 arrives but all servers' queue is full! Customer is lost.
+Time 777.1488602464169: Customer 264 arrives but all servers' queue is full! Customer is lost.
+Time 777.1488602464169: Customer 264 arrives but all servers' queue is full! Customer is lost.
+Time 781.3992135578192: Customer 265 arrives but all servers' queue is full! Customer is lost.
+Time 781.3992135578192: Customer 265 arrives and joins Server 1's queue
+Time 781.3992135578192: Customer 265 arrives and joins Server 2's queue
+Time 782.6616445037322: Customer 266 arrives but all servers' queue is full! Customer is lost.
+Time 782.6616445037322: Customer 266 arrives but all servers' queue is full! Customer is lost.
+Time 782.6616445037322: Customer 266 arrives and joins Server 2's queue
+Time 783.1008274936813: Customer 267 arrives but all servers' queue is full! Customer is lost.
+Time 783.1008274936813: Customer 267 arrives but all servers' queue is full! Customer is lost.
+Time 783.1008274936813: Customer 267 arrives but all servers' queue is full! Customer is lost.
+Time 792.3417589608285: Customer 268 arrives and joins Server 0's queue
+Time 792.3417589608285: Customer 268 arrives and joins Server 1's queue
+Time 792.3417589608285: Customer 268 arrives and joins Server 2's queue
+Time 794.6925926047722: Customer 269 arrives but all servers' queue is full! Customer is lost.
+Time 794.6925926047722: Customer 269 arrives but all servers' queue is full! Customer is lost.
+Time 794.6925926047722: Customer 269 arrives and joins Server 2's queue
+Time 797.860450983267: Customer 270 arrives and joins Server 0's queue
+Time 797.860450983267: Customer 270 arrives and joins Server 1's queue
+Time 797.860450983267: Customer 270 arrives and joins Server 2's queue
+Time 798.733027772631: Customer 271 arrives but all servers' queue is full! Customer is lost.
+Time 798.733027772631: Customer 271 arrives but all servers' queue is full! Customer is lost.
+Time 798.733027772631: Customer 271 arrives but all servers' queue is full! Customer is lost.
+Time 799.037476937206: Customer 272 arrives but all servers' queue is full! Customer is lost.
+Time 799.037476937206: Customer 272 arrives but all servers' queue is full! Customer is lost.
+Time 799.037476937206: Customer 272 arrives and joins Server 2's queue
+Time 801.0129245786553: Customer 273 arrives but all servers' queue is full! Customer is lost.
+Time 801.0129245786553: Customer 273 arrives and joins Server 1's queue
+Time 801.0129245786553: Customer 273 arrives and joins Server 2's queue
+Time 802.7054472237822: Customer 274 arrives but all servers' queue is full! Customer is lost.
+Time 802.7054472237822: Customer 274 arrives and joins Server 1's queue
+Time 802.7054472237822: Customer 274 arrives but all servers' queue is full! Customer is lost.
+Time 805.0196599410727: Customer 275 arrives and joins Server 0's queue
+Time 805.0196599410727: Customer 275 arrives but all servers' queue is full! Customer is lost.
+Time 805.0196599410727: Customer 275 arrives and joins Server 2's queue
+Time 805.4630878321609: Customer 276 arrives but all servers' queue is full! Customer is lost.
+Time 805.4630878321609: Customer 276 arrives but all servers' queue is full! Customer is lost.
+Time 805.4630878321609: Customer 276 arrives but all servers' queue is full! Customer is lost.
+Time 805.9035883152599: Customer 277 arrives but all servers' queue is full! Customer is lost.
+Time 805.9035883152599: Customer 277 arrives but all servers' queue is full! Customer is lost.
+Time 805.9035883152599: Customer 277 arrives but all servers' queue is full! Customer is lost.
+Time 814.55342275702: Customer 278 arrives but all servers' queue is full! Customer is lost.
+Time 814.55342275702: Customer 278 arrives and joins Server 1's queue
+Time 814.55342275702: Customer 278 arrives and joins Server 2's queue
+Time 815.4647194879186: Customer 279 arrives but all servers' queue is full! Customer is lost.
+Time 815.4647194879186: Customer 279 arrives but all servers' queue is full! Customer is lost.
+Time 815.4647194879186: Customer 279 arrives but all servers' queue is full! Customer is lost.
+Time 816.4445719829661: Customer 280 arrives but all servers' queue is full! Customer is lost.
+Time 816.4445719829661: Customer 280 arrives but all servers' queue is full! Customer is lost.
+Time 816.4445719829661: Customer 280 arrives but all servers' queue is full! Customer is lost.
+Time 816.8898280740565: Customer 281 arrives but all servers' queue is full! Customer is lost.
+Time 816.8898280740565: Customer 281 arrives but all servers' queue is full! Customer is lost.
+Time 816.8898280740565: Customer 281 arrives but all servers' queue is full! Customer is lost.
+Time 818.9024254385502: Customer 282 arrives and joins Server 0's queue
+Time 818.9024254385502: Customer 282 arrives and joins Server 1's queue
+Time 818.9024254385502: Customer 282 arrives but all servers' queue is full! Customer is lost.
+Time 820.3373261480662: Customer 283 arrives but all servers' queue is full! Customer is lost.
+Time 820.3373261480662: Customer 283 arrives but all servers' queue is full! Customer is lost.
+Time 820.3373261480662: Customer 283 arrives but all servers' queue is full! Customer is lost.
+Time 821.7964503310305: Customer 284 arrives and joins Server 0's queue
+Time 821.7964503310305: Customer 284 arrives but all servers' queue is full! Customer is lost.
+Time 821.7964503310305: Customer 284 arrives and joins Server 2's queue
+Time 827.405134459632: Customer 285 arrives but all servers' queue is full! Customer is lost.
+Time 827.405134459632: Customer 285 arrives and joins Server 1's queue
+Time 827.405134459632: Customer 285 arrives and joins Server 2's queue
+Time 827.9437130340795: Customer 286 arrives but all servers' queue is full! Customer is lost.
+Time 827.9437130340795: Customer 286 arrives but all servers' queue is full! Customer is lost.
+Time 827.9437130340795: Customer 286 arrives and joins Server 2's queue
+Time 837.803524711224: Customer 287 arrives and joins Server 0's queue
+Time 837.803524711224: Customer 287 arrives but all servers' queue is full! Customer is lost.
+Time 837.803524711224: Customer 287 arrives and joins Server 2's queue
+Time 838.2649823117514: Customer 288 arrives but all servers' queue is full! Customer is lost.
+Time 838.2649823117514: Customer 288 arrives but all servers' queue is full! Customer is lost.
+Time 838.2649823117514: Customer 288 arrives but all servers' queue is full! Customer is lost.
+Time 838.7378385500554: Customer 289 arrives but all servers' queue is full! Customer is lost.
+Time 838.7378385500554: Customer 289 arrives but all servers' queue is full! Customer is lost.
+Time 838.7378385500554: Customer 289 arrives but all servers' queue is full! Customer is lost.
+Time 839.6480837969067: Customer 290 arrives and joins Server 0's queue
+Time 839.6480837969067: Customer 290 arrives and joins Server 1's queue
+Time 839.6480837969067: Customer 290 arrives but all servers' queue is full! Customer is lost.
+Time 842.2404588453154: Customer 291 arrives but all servers' queue is full! Customer is lost.
+Time 842.2404588453154: Customer 291 arrives but all servers' queue is full! Customer is lost.
+Time 842.2404588453154: Customer 291 arrives and joins Server 2's queue
+Time 844.3872232176673: Customer 292 arrives but all servers' queue is full! Customer is lost.
+Time 844.3872232176673: Customer 292 arrives and joins Server 1's queue
+Time 844.3872232176673: Customer 292 arrives but all servers' queue is full! Customer is lost.
+Time 845.5852298797591: Customer 293 arrives but all servers' queue is full! Customer is lost.
+Time 845.5852298797591: Customer 293 arrives but all servers' queue is full! Customer is lost.
+Time 845.5852298797591: Customer 293 arrives but all servers' queue is full! Customer is lost.
+Time 848.7469298832123: Customer 294 arrives but all servers' queue is full! Customer is lost.
+Time 848.7469298832123: Customer 294 arrives but all servers' queue is full! Customer is lost.
+Time 848.7469298832123: Customer 294 arrives but all servers' queue is full! Customer is lost.
+Time 850.5877258622758: Customer 295 arrives and joins Server 0's queue
+Time 850.5877258622758: Customer 295 arrives and joins Server 1's queue
+Time 850.5877258622758: Customer 295 arrives and joins Server 2's queue
+Time 852.4421087387445: Customer 296 arrives but all servers' queue is full! Customer is lost.
+Time 852.4421087387445: Customer 296 arrives but all servers' queue is full! Customer is lost.
+Time 852.4421087387445: Customer 296 arrives and joins Server 2's queue
+Time 853.1480305158086: Customer 297 arrives but all servers' queue is full! Customer is lost.
+Time 853.1480305158086: Customer 297 arrives but all servers' queue is full! Customer is lost.
+Time 853.1480305158086: Customer 297 arrives but all servers' queue is full! Customer is lost.
+Time 856.1474384339551: Customer 298 arrives but all servers' queue is full! Customer is lost.
+Time 856.1474384339551: Customer 298 arrives but all servers' queue is full! Customer is lost.
+Time 856.1474384339551: Customer 298 arrives and joins Server 2's queue
+Time 858.4911210745043: Customer 299 arrives but all servers' queue is full! Customer is lost.
+Time 858.4911210745043: Customer 299 arrives and joins Server 1's queue
+Time 858.4911210745043: Customer 299 arrives but all servers' queue is full! Customer is lost.
+Time 859.426905161213: Customer 300 arrives and joins Server 0's queue
+Time 859.426905161213: Customer 300 arrives but all servers' queue is full! Customer is lost.
+Time 859.426905161213: Customer 300 arrives and joins Server 2's queue
+Time 861.7788353944932: Customer 301 arrives but all servers' queue is full! Customer is lost.
+Time 861.7788353944932: Customer 301 arrives but all servers' queue is full! Customer is lost.
+Time 861.7788353944932: Customer 301 arrives but all servers' queue is full! Customer is lost.
+Time 868.4390800888131: Customer 302 arrives and joins Server 0's queue
+Time 868.4390800888131: Customer 302 arrives and joins Server 1's queue
+Time 868.4390800888131: Customer 302 arrives but all servers' queue is full! Customer is lost.
+Time 868.8554395983607: Customer 303 arrives but all servers' queue is full! Customer is lost.
+Time 868.8554395983607: Customer 303 arrives but all servers' queue is full! Customer is lost.
+Time 868.8554395983607: Customer 303 arrives but all servers' queue is full! Customer is lost.
+Time 875.0836680201315: Customer 304 arrives but all servers' queue is full! Customer is lost.
+Time 875.0836680201315: Customer 304 arrives and joins Server 1's queue
+Time 875.0836680201315: Customer 304 arrives but all servers' queue is full! Customer is lost.
+Time 878.6080756943664: Customer 305 arrives but all servers' queue is full! Customer is lost.
+Time 878.6080756943664: Customer 305 arrives but all servers' queue is full! Customer is lost.
+Time 878.6080756943664: Customer 305 arrives and joins Server 2's queue
+Time 880.5558804135867: Customer 306 arrives and joins Server 0's queue
+Time 880.5558804135867: Customer 306 arrives but all servers' queue is full! Customer is lost.
+Time 880.5558804135867: Customer 306 arrives and joins Server 2's queue
+Time 882.8305541623531: Customer 307 arrives and joins Server 0's queue
+Time 882.8305541623531: Customer 307 arrives and joins Server 1's queue
+Time 882.8305541623531: Customer 307 arrives but all servers' queue is full! Customer is lost.
+Time 883.2668347722239: Customer 308 arrives but all servers' queue is full! Customer is lost.
+Time 883.2668347722239: Customer 308 arrives but all servers' queue is full! Customer is lost.
+Time 883.2668347722239: Customer 308 arrives but all servers' queue is full! Customer is lost.
+Time 887.734767937378: Customer 309 arrives and joins Server 0's queue
+Time 887.734767937378: Customer 309 arrives and joins Server 1's queue
+Time 887.734767937378: Customer 309 arrives but all servers' queue is full! Customer is lost.
+Time 888.3314518401135: Customer 310 arrives but all servers' queue is full! Customer is lost.
+Time 888.3314518401135: Customer 310 arrives but all servers' queue is full! Customer is lost.
+Time 888.3314518401135: Customer 310 arrives and joins Server 2's queue
+Time 891.6219983968916: Customer 311 arrives but all servers' queue is full! Customer is lost.
+Time 891.6219983968916: Customer 311 arrives and joins Server 1's queue
+Time 891.6219983968916: Customer 311 arrives but all servers' queue is full! Customer is lost.
+Time 895.1221388565589: Customer 312 arrives and joins Server 0's queue
+Time 895.1221388565589: Customer 312 arrives and joins Server 1's queue
+Time 895.1221388565589: Customer 312 arrives but all servers' queue is full! Customer is lost.
+Time 897.8493948477933: Customer 313 arrives but all servers' queue is full! Customer is lost.
+Time 897.8493948477933: Customer 313 arrives but all servers' queue is full! Customer is lost.
+Time 897.8493948477933: Customer 313 arrives and joins Server 2's queue
+Time 899.472955255647: Customer 314 arrives and joins Server 0's queue
+Time 899.472955255647: Customer 314 arrives but all servers' queue is full! Customer is lost.
+Time 899.472955255647: Customer 314 arrives and joins Server 2's queue
+Time 899.8454486316443: Customer 315 arrives but all servers' queue is full! Customer is lost.
+Time 899.8454486316443: Customer 315 arrives but all servers' queue is full! Customer is lost.
+Time 899.8454486316443: Customer 315 arrives but all servers' queue is full! Customer is lost.
+Time 905.4443740711225: Customer 316 arrives and joins Server 0's queue
+Time 905.4443740711225: Customer 316 arrives and joins Server 1's queue
+Time 905.4443740711225: Customer 316 arrives and joins Server 2's queue
+Time 907.5307394436131: Customer 317 arrives but all servers' queue is full! Customer is lost.
+Time 907.5307394436131: Customer 317 arrives but all servers' queue is full! Customer is lost.
+Time 907.5307394436131: Customer 317 arrives but all servers' queue is full! Customer is lost.
+Time 912.5162213896782: Customer 318 arrives and joins Server 0's queue
+Time 912.5162213896782: Customer 318 arrives and joins Server 1's queue
+Time 912.5162213896782: Customer 318 arrives and joins Server 2's queue
+Time 913.5865483963867: Customer 319 arrives but all servers' queue is full! Customer is lost.
+Time 913.5865483963867: Customer 319 arrives but all servers' queue is full! Customer is lost.
+Time 913.5865483963867: Customer 319 arrives but all servers' queue is full! Customer is lost.
+Time 913.8674685834467: Customer 320 arrives but all servers' queue is full! Customer is lost.
+Time 913.8674685834467: Customer 320 arrives but all servers' queue is full! Customer is lost.
+Time 913.8674685834467: Customer 320 arrives but all servers' queue is full! Customer is lost.
+Time 919.00413245538: Customer 321 arrives and joins Server 0's queue
+Time 919.00413245538: Customer 321 arrives but all servers' queue is full! Customer is lost.
+Time 919.00413245538: Customer 321 arrives and joins Server 2's queue
+Time 926.9819882877766: Customer 322 arrives and joins Server 0's queue
+Time 926.9819882877766: Customer 322 arrives but all servers' queue is full! Customer is lost.
+Time 926.9819882877766: Customer 322 arrives and joins Server 2's queue
+Time 928.0096627244601: Customer 323 arrives but all servers' queue is full! Customer is lost.
+Time 928.0096627244601: Customer 323 arrives but all servers' queue is full! Customer is lost.
+Time 928.0096627244601: Customer 323 arrives and joins Server 2's queue
+Time 932.7670024287064: Customer 324 arrives but all servers' queue is full! Customer is lost.
+Time 932.7670024287064: Customer 324 arrives and joins Server 1's queue
+Time 932.7670024287064: Customer 324 arrives and joins Server 2's queue
+Time 933.1846071026491: Customer 325 arrives and joins Server 0's queue
+Time 933.1846071026491: Customer 325 arrives but all servers' queue is full! Customer is lost.
+Time 933.1846071026491: Customer 325 arrives but all servers' queue is full! Customer is lost.
+Time 933.5165720356104: Customer 326 arrives but all servers' queue is full! Customer is lost.
+Time 933.5165720356104: Customer 326 arrives but all servers' queue is full! Customer is lost.
+Time 933.5165720356104: Customer 326 arrives but all servers' queue is full! Customer is lost.
+Time 935.635192652767: Customer 327 arrives and joins Server 0's queue
+Time 935.635192652767: Customer 327 arrives but all servers' queue is full! Customer is lost.
+Time 935.635192652767: Customer 327 arrives but all servers' queue is full! Customer is lost.
+Time 935.691337378973: Customer 328 arrives but all servers' queue is full! Customer is lost.
+Time 935.691337378973: Customer 328 arrives but all servers' queue is full! Customer is lost.
+Time 935.691337378973: Customer 328 arrives but all servers' queue is full! Customer is lost.
+Time 937.3255533325068: Customer 329 arrives but all servers' queue is full! Customer is lost.
+Time 937.3255533325068: Customer 329 arrives but all servers' queue is full! Customer is lost.
+Time 937.3255533325068: Customer 329 arrives but all servers' queue is full! Customer is lost.
+Time 938.0048711737146: Customer 330 arrives but all servers' queue is full! Customer is lost.
+Time 938.0048711737146: Customer 330 arrives but all servers' queue is full! Customer is lost.
+Time 938.0048711737146: Customer 330 arrives but all servers' queue is full! Customer is lost.
+Time 940.2143834619864: Customer 331 arrives but all servers' queue is full! Customer is lost.
+Time 940.2143834619864: Customer 331 arrives but all servers' queue is full! Customer is lost.
+Time 940.2143834619864: Customer 331 arrives and joins Server 2's queue
+Time 941.3470227676821: Customer 332 arrives and joins Server 0's queue
+Time 941.3470227676821: Customer 332 arrives but all servers' queue is full! Customer is lost.
+Time 941.3470227676821: Customer 332 arrives but all servers' queue is full! Customer is lost.
+Time 948.5744060563819: Customer 333 arrives and joins Server 0's queue
+Time 948.5744060563819: Customer 333 arrives and joins Server 1's queue
+Time 948.5744060563819: Customer 333 arrives and joins Server 2's queue
+Time 948.8637365762778: Customer 334 arrives but all servers' queue is full! Customer is lost.
+Time 948.8637365762778: Customer 334 arrives and joins Server 1's queue
+Time 948.8637365762778: Customer 334 arrives but all servers' queue is full! Customer is lost.
+Time 950.3296367107243: Customer 335 arrives and joins Server 0's queue
+Time 950.3296367107243: Customer 335 arrives and joins Server 1's queue
+Time 950.3296367107243: Customer 335 arrives and joins Server 2's queue
+Time 951.6608862130189: Customer 336 arrives but all servers' queue is full! Customer is lost.
+Time 951.6608862130189: Customer 336 arrives but all servers' queue is full! Customer is lost.
+Time 951.6608862130189: Customer 336 arrives but all servers' queue is full! Customer is lost.
+Time 959.3172406281591: Customer 337 arrives and joins Server 0's queue
+Time 959.3172406281591: Customer 337 arrives and joins Server 1's queue
+Time 959.3172406281591: Customer 337 arrives and joins Server 2's queue
+Time 964.0993513588987: Customer 338 arrives and joins Server 0's queue
+Time 964.0993513588987: Customer 338 arrives but all servers' queue is full! Customer is lost.
+Time 964.0993513588987: Customer 338 arrives and joins Server 2's queue
+Time 978.0143227640291: Customer 339 arrives and joins Server 0's queue
+Time 978.0143227640291: Customer 339 arrives and joins Server 1's queue
+Time 978.0143227640291: Customer 339 arrives and joins Server 2's queue
+Time 979.6578334279918: Customer 340 arrives but all servers' queue is full! Customer is lost.
+Time 979.6578334279918: Customer 340 arrives but all servers' queue is full! Customer is lost.
+Time 979.6578334279918: Customer 340 arrives but all servers' queue is full! Customer is lost.
+Time 983.5011540006897: Customer 341 arrives and joins Server 0's queue
+Time 983.5011540006897: Customer 341 arrives and joins Server 1's queue
+Time 983.5011540006897: Customer 341 arrives and joins Server 2's queue
+Time 988.1347754548597: Customer 342 arrives and joins Server 0's queue
+Time 988.1347754548597: Customer 342 arrives and joins Server 1's queue
+Time 988.1347754548597: Customer 342 arrives and joins Server 2's queue
+Time 992.030671919952: Customer 343 arrives but all servers' queue is full! Customer is lost.
+Time 992.030671919952: Customer 343 arrives but all servers' queue is full! Customer is lost.
+Time 992.030671919952: Customer 343 arrives but all servers' queue is full! Customer is lost.
+Time 993.9618282516035: Customer 344 arrives and joins Server 0's queue
+Time 993.9618282516035: Customer 344 arrives but all servers' queue is full! Customer is lost.
+Time 993.9618282516035: Customer 344 arrives but all servers' queue is full! Customer is lost.
+Time 994.038174852131: Customer 345 arrives but all servers' queue is full! Customer is lost.
+Time 994.038174852131: Customer 345 arrives but all servers' queue is full! Customer is lost.
+Time 994.038174852131: Customer 345 arrives but all servers' queue is full! Customer is lost.
+Time 997.2273829659971: Customer 346 arrives and joins Server 0's queue
+Time 997.2273829659971: Customer 346 arrives but all servers' queue is full! Customer is lost.
+Time 997.2273829659971: Customer 346 arrives but all servers' queue is full! Customer is lost.
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="Idle" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="RANDOM_SEED" type="int" qualifier="builtins" value="4232" />
+<var name="arrival_rate" type="int" qualifier="builtins" value="3" />
+<var name="arrival_times" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="ax" type="ndarray" qualifier="numpy" value="%5B%5B%3CAxes%3A title=%7B%27center%27%3A %27Utilization%27%7D&gt;%2C  %3CAxes%3A title=%7B%27center%27%3A %27Average Waiting Time%27%7D&gt;%5D%2C %5B%3CAxes%3A title=%7B%27center%27%3A %27Average Queue Length%27%7D&gt;%2C  %3CAxes%3A title=%7B%27center%27%3A %27Served Customers%27%7D&gt;%5D%2C %5B%3CAxes%3A title=%7B%27center%27%3A %27Average service time%27%7D&gt; %3CAxes%3A &gt;%5D%5D" isContainer="True" shape="(3, 2)" />
+<var name="begin_time" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="busy" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="chiefs" type="Resource" qualifier="simpy.resources.resource" value="%3Csimpy.resources.resource.Resource object at 0x000001769288EDD0&gt;" isContainer="True" />
+<var name="customer_data" type="list" qualifier="builtins" value="%5B%7B%27arrival_time%27%3A 1.781371014307793%2C %27customer_name%27%3A %27customer 0%27%2C %27end_service_time%27%3A 4.55141850313229%2C %27server_name%27%3A %27server 0%27%2C %27service_time%27%3A 2.7700474888244964%2C %27start_service_time%27%3A 1.781371014307793%2C %27wait_time%27%3A 0.0%7D%2C %7B%27arrival_time%27%3A 1.781371014307793%2C %27customer_name%27%3A %27customer 0%27%2C %27end_service_time%27%3A 3.311332481590835%2C %27server_name%27%3A %27server 1%27%2C %27service_time%27%3A 1.529961467283042%2C %27start_service_time%27%3A 1.781371014307793%2C %27wait_time%27%3A 0.0%7D%2C %7B%27arrival_time%27%3A 1.781371014307793%2C %27customer_name%27%3A %27customer 0%27%2C %27end_service_time%27%3A 2.7754279726255757%2C %27server_name%27%3A %27server 2%27%2C %27service_time%27%3A 0.9940569583177826%2C %27start_service_time%27%3A 1.781371014307793%2C %27wait_time%27%3A 0.0%7D%2C %7B%27arrival_time%27%3A 7.4966432216853605%2C %27customer_name%27%3A %27customer 1%27%2C %27end_service_time%27%3A 7.56508461738104%2C %27server_name%27%3A %27server 0%27%2C %27service_time%27%3A 0.06844139569567984%2C %27start_service_time%27%3A 7.4966432216853605%2C %27wait_time%27%3A 0.0%7D%2C %7B%27arrival_time%27%3A 7.4966432216853605%2C %27customer_name%27%3A %27customer 1%27%2C %27end_service_t..." isContainer="True" shape="386" />
+<var name="end_time" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="env" type="Environment" qualifier="simpy.core" value="%3Csimpy.core.Environment object at 0x000001768FF3DF20&gt;" isContainer="True" />
+<var name="fig" type="Figure" qualifier="matplotlib.figure" value="%3CFigure size 1400x1000 with 6 Axes&gt;" isContainer="True" />
+<var name="i" type="int" qualifier="builtins" value="2" />
+<var name="j" type="int" qualifier="builtins" value="1" />
+<var name="lambda_for_arrival" type="float" qualifier="builtins" value="0.16666666666666666" />
+<var name="lambda_for_cooking" type="float" qualifier="builtins" value="0.16666666666666666" />
+<var name="lambda_for_order" type="float" qualifier="builtins" value="0.2" />
+<var name="lambda_for_serving" type="float" qualifier="builtins" value="0.2" />
+<var name="last_arrival" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="no_chief" type="int" qualifier="builtins" value="2" />
+<var name="no_order_taker" type="int" qualifier="builtins" value="2" />
+<var name="no_waiters" type="int" qualifier="builtins" value="2" />
+<var name="num_servers" type="int" qualifier="builtins" value="3" />
+<var name="number_of_customer" type="int" qualifier="builtins" value="50" />
+<var name="order_takers" type="Resource" qualifier="simpy.resources.resource" value="%3Csimpy.resources.resource.Resource object at 0x000001768FF889F0&gt;" isContainer="True" />
+<var name="s" type="Server" qualifier="__main__" value="%3C__main__.Server object at 0x0000017690098050&gt;" isContainer="True" />
+<var name="server" type="Server" qualifier="__main__" value="%3C__main__.Server object at 0x0000017690098550&gt;" isContainer="True" />
+<var name="server_data" type="list" qualifier="builtins" value="%5B%7B%27average_queue_length%27%3A 0.0%2C %27average_service_time%27%3A 4.659649365714259%2C %27avg_waiting_time%27%3A 0.0%2C %27idle_probability%27%3A 0.39424558245714636%2C %27max_queue_length%27%3A 0%2C %27queue_len%27%3A %5B0%5D%2C %27served_customers%27%3A 130%2C %27server_name%27%3A %27server 0%27%2C %27utilization%27%3A 0.6057544175428536%7D%2C %7B%27average_queue_length%27%3A 0.0%2C %27average_service_time%27%3A 6.336945476247991%2C %27avg_waiting_time%27%3A 0.0%2C %27idle_probability%27%3A 0.31560988856521693%2C %27max_queue_length%27%3A 0%2C %27queue_len%27%3A %5B0%5D%2C %27served_customers%27%3A 108%2C %27server_name%27%3A %27server 1%27%2C %27utilization%27%3A 0.6843901114347831%7D%2C %7B%27average_queue_length%27%3A 0.0%2C %27average_service_time%27%3A 3.6648452966180423%2C %27avg_waiting_time%27%3A 0.0%2C %27idle_probability%27%3A 0.45760289610052973%2C %27max_queue_length%27%3A 0%2C %27queue_len%27%3A %5B0%5D%2C %27served_customers%27%3A 148%2C %27server_name%27%3A %27server 2%27%2C %27utilization%27%3A 0.5423971038994703%7D%5D" isContainer="True" shape="3" />
+<var name="servers" type="list" qualifier="builtins" value="%5B%3C__main__.Server object at 0x00000176900F3380&gt;%2C %3C__main__.Server object at 0x0000017690098190&gt;%2C %3C__main__.Server object at 0x0000017690098050&gt;%5D" isContainer="True" shape="3" />
+<var name="service_rates" type="list" qualifier="builtins" value="%5B5%2C 7%2C 4%5D" isContainer="True" shape="3" />
+<var name="simulation_time" type="int" qualifier="builtins" value="1000" />
+<var name="stats" type="dict" qualifier="builtins" value="%7B%27average_queue_length%27%3A 0.0%2C %27average_service_time%27%3A 3.6648452966180423%2C %27avg_waiting_time%27%3A 0.0%2C %27idle_probability%27%3A 0.45760289610052973%2C %27max_queue_length%27%3A 0%2C %27queue_len%27%3A %5B0%5D%2C %27served_customers%27%3A 148%2C %27server_name%27%3A %27server 2%27%2C %27utilization%27%3A 0.5423971038994703%7D" isContainer="True" shape="9" />
+<var name="waiters" type="Resource" qualifier="simpy.resources.resource" value="%3Csimpy.resources.resource.Resource object at 0x00000176900A1980&gt;" isContainer="True" />
+<var name="waits_time" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="Idle" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="RANDOM_SEED" type="int" qualifier="builtins" value="4232" />
+<var name="arrival_rate" type="int" qualifier="builtins" value="3" />
+<var name="arrival_times" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="ax" type="ndarray" qualifier="numpy" value="%5B%5B%3CAxes%3A title=%7B%27center%27%3A %27Utilization%27%7D&gt;%2C  %3CAxes%3A title=%7B%27center%27%3A %27Average Waiting Time%27%7D&gt;%5D%2C %5B%3CAxes%3A title=%7B%27center%27%3A %27Average Queue Length%27%7D&gt;%2C  %3CAxes%3A title=%7B%27center%27%3A %27Served Customers%27%7D&gt;%5D%2C %5B%3CAxes%3A title=%7B%27center%27%3A %27Average service time%27%7D&gt; %3CAxes%3A &gt;%5D%5D" isContainer="True" shape="(3, 2)" />
+<var name="begin_time" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="busy" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="chiefs" type="Resource" qualifier="simpy.resources.resource" value="%3Csimpy.resources.resource.Resource object at 0x000001769288EDD0&gt;" isContainer="True" />
+<var name="customer_data" type="list" qualifier="builtins" value="%5B%7B%27arrival_time%27%3A 1.781371014307793%2C %27customer_name%27%3A %27customer 0%27%2C %27end_service_time%27%3A 4.55141850313229%2C %27server_name%27%3A %27server 0%27%2C %27service_time%27%3A 2.7700474888244964%2C %27start_service_time%27%3A 1.781371014307793%2C %27wait_time%27%3A 0.0%7D%2C %7B%27arrival_time%27%3A 1.781371014307793%2C %27customer_name%27%3A %27customer 0%27%2C %27end_service_time%27%3A 3.311332481590835%2C %27server_name%27%3A %27server 1%27%2C %27service_time%27%3A 1.529961467283042%2C %27start_service_time%27%3A 1.781371014307793%2C %27wait_time%27%3A 0.0%7D%2C %7B%27arrival_time%27%3A 1.781371014307793%2C %27customer_name%27%3A %27customer 0%27%2C %27end_service_time%27%3A 2.7754279726255757%2C %27server_name%27%3A %27server 2%27%2C %27service_time%27%3A 0.9940569583177826%2C %27start_service_time%27%3A 1.781371014307793%2C %27wait_time%27%3A 0.0%7D%2C %7B%27arrival_time%27%3A 7.4966432216853605%2C %27customer_name%27%3A %27customer 1%27%2C %27end_service_time%27%3A 7.56508461738104%2C %27server_name%27%3A %27server 0%27%2C %27service_time%27%3A 0.06844139569567984%2C %27start_service_time%27%3A 7.4966432216853605%2C %27wait_time%27%3A 0.0%7D%2C %7B%27arrival_time%27%3A 7.4966432216853605%2C %27customer_name%27%3A %27customer 1%27%2C %27end_service_t..." isContainer="True" shape="386" />
+<var name="end_time" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="env" type="Environment" qualifier="simpy.core" value="%3Csimpy.core.Environment object at 0x000001768FF3DF20&gt;" isContainer="True" />
+<var name="fig" type="Figure" qualifier="matplotlib.figure" value="%3CFigure size 1400x1000 with 6 Axes&gt;" isContainer="True" />
+<var name="i" type="int" qualifier="builtins" value="2" />
+<var name="j" type="int" qualifier="builtins" value="1" />
+<var name="lambda_for_arrival" type="float" qualifier="builtins" value="0.16666666666666666" />
+<var name="lambda_for_cooking" type="float" qualifier="builtins" value="0.16666666666666666" />
+<var name="lambda_for_order" type="float" qualifier="builtins" value="0.2" />
+<var name="lambda_for_serving" type="float" qualifier="builtins" value="0.2" />
+<var name="last_arrival" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="no_chief" type="int" qualifier="builtins" value="2" />
+<var name="no_order_taker" type="int" qualifier="builtins" value="2" />
+<var name="no_waiters" type="int" qualifier="builtins" value="2" />
+<var name="num_servers" type="int" qualifier="builtins" value="3" />
+<var name="number_of_customer" type="int" qualifier="builtins" value="50" />
+<var name="order_takers" type="Resource" qualifier="simpy.resources.resource" value="%3Csimpy.resources.resource.Resource object at 0x000001768FF889F0&gt;" isContainer="True" />
+<var name="s" type="Server" qualifier="__main__" value="%3C__main__.Server object at 0x0000017690098050&gt;" isContainer="True" />
+<var name="server" type="Server" qualifier="__main__" value="%3C__main__.Server object at 0x0000017690098050&gt;" isContainer="True" />
+<var name="server_data" type="list" qualifier="builtins" value="%5B%7B%27average_queue_length%27%3A 0.0%2C %27average_service_time%27%3A 4.659649365714259%2C %27avg_waiting_time%27%3A 0.0%2C %27idle_probability%27%3A 0.39424558245714636%2C %27max_queue_length%27%3A 0%2C %27queue_len%27%3A %5B0%5D%2C %27served_customers%27%3A 130%2C %27server_name%27%3A %27server 0%27%2C %27utilization%27%3A 0.6057544175428536%7D%2C %7B%27average_queue_length%27%3A 0.0%2C %27average_service_time%27%3A 6.336945476247991%2C %27avg_waiting_time%27%3A 0.0%2C %27idle_probability%27%3A 0.31560988856521693%2C %27max_queue_length%27%3A 0%2C %27queue_len%27%3A %5B0%5D%2C %27served_customers%27%3A 108%2C %27server_name%27%3A %27server 1%27%2C %27utilization%27%3A 0.6843901114347831%7D%2C %7B%27average_queue_length%27%3A 0.0%2C %27average_service_time%27%3A 3.6648452966180423%2C %27avg_waiting_time%27%3A 0.0%2C %27idle_probability%27%3A 0.45760289610052973%2C %27max_queue_length%27%3A 0%2C %27queue_len%27%3A %5B0%5D%2C %27served_customers%27%3A 148%2C %27server_name%27%3A %27server 2%27%2C %27utilization%27%3A 0.5423971038994703%7D%5D" isContainer="True" shape="3" />
+<var name="servers" type="list" qualifier="builtins" value="%5B%3C__main__.Server object at 0x00000176900F3380&gt;%2C %3C__main__.Server object at 0x0000017690098190&gt;%2C %3C__main__.Server object at 0x0000017690098050&gt;%5D" isContainer="True" shape="3" />
+<var name="service_rates" type="list" qualifier="builtins" value="%5B5%2C 7%2C 4%5D" isContainer="True" shape="3" />
+<var name="simulation_time" type="int" qualifier="builtins" value="1000" />
+<var name="stats" type="dict" qualifier="builtins" value="%7B%27average_queue_length%27%3A 0.0%2C %27average_service_time%27%3A 3.6648452966180423%2C %27avg_waiting_time%27%3A 0.0%2C %27idle_probability%27%3A 0.45760289610052973%2C %27max_queue_length%27%3A 0%2C %27queue_len%27%3A %5B0%5D%2C %27served_customers%27%3A 148%2C %27server_name%27%3A %27server 2%27%2C %27utilization%27%3A 0.5423971038994703%7D" isContainer="True" shape="9" />
+<var name="waiters" type="Resource" qualifier="simpy.resources.resource" value="%3Csimpy.resources.resource.Resource object at 0x00000176900A1980&gt;" isContainer="True" />
+<var name="waits_time" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="Idle" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="RANDOM_SEED" type="int" qualifier="builtins" value="4232" />
+<var name="arrival_rate" type="int" qualifier="builtins" value="3" />
+<var name="arrival_times" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="ax" type="ndarray" qualifier="numpy" value="%5B%5B%3CAxes%3A title=%7B%27center%27%3A %27Utilization%27%7D&gt;%2C  %3CAxes%3A title=%7B%27center%27%3A %27Average Waiting Time%27%7D&gt;%5D%2C %5B%3CAxes%3A title=%7B%27center%27%3A %27Average Queue Length%27%7D&gt;%2C  %3CAxes%3A title=%7B%27center%27%3A %27Served Customers%27%7D&gt;%5D%2C %5B%3CAxes%3A title=%7B%27center%27%3A %27Average service time%27%7D&gt; %3CAxes%3A &gt;%5D%5D" isContainer="True" shape="(3, 2)" />
+<var name="begin_time" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="busy" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="chiefs" type="Resource" qualifier="simpy.resources.resource" value="%3Csimpy.resources.resource.Resource object at 0x000001769288EDD0&gt;" isContainer="True" />
+<var name="customer_data" type="list" qualifier="builtins" value="%5B%7B%27arrival_time%27%3A 1.781371014307793%2C %27customer_name%27%3A %27customer 0%27%2C %27end_service_time%27%3A 4.55141850313229%2C %27server_name%27%3A %27server 0%27%2C %27service_time%27%3A 2.7700474888244964%2C %27start_service_time%27%3A 1.781371014307793%2C %27wait_time%27%3A 0.0%7D%2C %7B%27arrival_time%27%3A 1.781371014307793%2C %27customer_name%27%3A %27customer 0%27%2C %27end_service_time%27%3A 3.311332481590835%2C %27server_name%27%3A %27server 1%27%2C %27service_time%27%3A 1.529961467283042%2C %27start_service_time%27%3A 1.781371014307793%2C %27wait_time%27%3A 0.0%7D%2C %7B%27arrival_time%27%3A 1.781371014307793%2C %27customer_name%27%3A %27customer 0%27%2C %27end_service_time%27%3A 2.7754279726255757%2C %27server_name%27%3A %27server 2%27%2C %27service_time%27%3A 0.9940569583177826%2C %27start_service_time%27%3A 1.781371014307793%2C %27wait_time%27%3A 0.0%7D%2C %7B%27arrival_time%27%3A 7.4966432216853605%2C %27customer_name%27%3A %27customer 1%27%2C %27end_service_time%27%3A 7.56508461738104%2C %27server_name%27%3A %27server 0%27%2C %27service_time%27%3A 0.06844139569567984%2C %27start_service_time%27%3A 7.4966432216853605%2C %27wait_time%27%3A 0.0%7D%2C %7B%27arrival_time%27%3A 7.4966432216853605%2C %27customer_name%27%3A %27customer 1%27%2C %27end_service_t..." isContainer="True" shape="386" />
+<var name="end_time" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="env" type="Environment" qualifier="simpy.core" value="%3Csimpy.core.Environment object at 0x000001768FF3DF20&gt;" isContainer="True" />
+<var name="fig" type="Figure" qualifier="matplotlib.figure" value="%3CFigure size 1400x1000 with 6 Axes&gt;" isContainer="True" />
+<var name="i" type="int" qualifier="builtins" value="2" />
+<var name="j" type="int" qualifier="builtins" value="1" />
+<var name="lambda_for_arrival" type="float" qualifier="builtins" value="0.16666666666666666" />
+<var name="lambda_for_cooking" type="float" qualifier="builtins" value="0.16666666666666666" />
+<var name="lambda_for_order" type="float" qualifier="builtins" value="0.2" />
+<var name="lambda_for_serving" type="float" qualifier="builtins" value="0.2" />
+<var name="last_arrival" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+<var name="no_chief" type="int" qualifier="builtins" value="2" />
+<var name="no_order_taker" type="int" qualifier="builtins" value="2" />
+<var name="no_waiters" type="int" qualifier="builtins" value="2" />
+<var name="num_servers" type="int" qualifier="builtins" value="3" />
+<var name="number_of_customer" type="int" qualifier="builtins" value="50" />
+<var name="order_takers" type="Resource" qualifier="simpy.resources.resource" value="%3Csimpy.resources.resource.Resource object at 0x000001768FF889F0&gt;" isContainer="True" />
+<var name="s" type="Server" qualifier="__main__" value="%3C__main__.Server object at 0x0000017690098050&gt;" isContainer="True" />
+<var name="server" type="Server" qualifier="__main__" value="%3C__main__.Server object at 0x0000017690098050&gt;" isContainer="True" />
+<var name="server_data" type="list" qualifier="builtins" value="%5B%7B%27average_queue_length%27%3A 0.0%2C %27average_service_time%27%3A 4.659649365714259%2C %27avg_waiting_time%27%3A 0.0%2C %27idle_probability%27%3A 0.39424558245714636%2C %27max_queue_length%27%3A 0%2C %27queue_len%27%3A %5B0%5D%2C %27served_customers%27%3A 130%2C %27server_name%27%3A %27server 0%27%2C %27utilization%27%3A 0.6057544175428536%7D%2C %7B%27average_queue_length%27%3A 0.0%2C %27average_service_time%27%3A 6.336945476247991%2C %27avg_waiting_time%27%3A 0.0%2C %27idle_probability%27%3A 0.31560988856521693%2C %27max_queue_length%27%3A 0%2C %27queue_len%27%3A %5B0%5D%2C %27served_customers%27%3A 108%2C %27server_name%27%3A %27server 1%27%2C %27utilization%27%3A 0.6843901114347831%7D%2C %7B%27average_queue_length%27%3A 0.0%2C %27average_service_time%27%3A 3.6648452966180423%2C %27avg_waiting_time%27%3A 0.0%2C %27idle_probability%27%3A 0.45760289610052973%2C %27max_queue_length%27%3A 0%2C %27queue_len%27%3A %5B0%5D%2C %27served_customers%27%3A 148%2C %27server_name%27%3A %27server 2%27%2C %27utilization%27%3A 0.5423971038994703%7D%5D" isContainer="True" shape="3" />
+<var name="servers" type="list" qualifier="builtins" value="%5B%3C__main__.Server object at 0x00000176900F3380&gt;%2C %3C__main__.Server object at 0x0000017690098190&gt;%2C %3C__main__.Server object at 0x0000017690098050&gt;%5D" isContainer="True" shape="3" />
+<var name="service_rates" type="list" qualifier="builtins" value="%5B5%2C 7%2C 4%5D" isContainer="True" shape="3" />
+<var name="simulation_time" type="int" qualifier="builtins" value="1000" />
+<var name="stats" type="dict" qualifier="builtins" value="%7B%27average_queue_length%27%3A 0.0%2C %27average_service_time%27%3A 3.6648452966180423%2C %27avg_waiting_time%27%3A 0.0%2C %27idle_probability%27%3A 0.45760289610052973%2C %27max_queue_length%27%3A 0%2C %27queue_len%27%3A %5B0%5D%2C %27served_customers%27%3A 148%2C %27server_name%27%3A %27server 2%27%2C %27utilization%27%3A 0.5423971038994703%7D" isContainer="True" shape="9" />
+<var name="waiters" type="Resource" qualifier="simpy.resources.resource" value="%3Csimpy.resources.resource.Resource object at 0x00000176900A1980&gt;" isContainer="True" />
+<var name="waits_time" type="list" qualifier="builtins" value="%5B%5D" isContainer="True" shape="0" />
+</xml>
